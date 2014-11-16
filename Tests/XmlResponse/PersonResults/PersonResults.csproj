@@ -1,0 +1,122 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05FEB05D-2F11-724D-8E31-D0101986FC61}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>PersonResults</RootNamespace>
+    <AssemblyName>PersonResults</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="PersonResultsDoc.cs" />
+    <Compile Include="valueType.cs" />
+    <Compile Include="Alpha2Type.cs" />
+    <Compile Include="valueType2.cs" />
+    <Compile Include="Alpha3Type.cs" />
+    <Compile Include="BirthDateType.cs" />
+    <Compile Include="CCardIdType.cs" />
+    <Compile Include="noOfEntriesType.cs" />
+    <Compile Include="noOfStartsType.cs" />
+    <Compile Include="ClassRaceInfoType.cs" />
+    <Compile Include="ClassResultType.cs" />
+    <Compile Include="ClassShortNameType.cs" />
+    <Compile Include="ClassTypeIdType.cs" />
+    <Compile Include="ClockType.cs" />
+    <Compile Include="languageIdType.cs" />
+    <Compile Include="CommentType.cs" />
+    <Compile Include="valueType3.cs" />
+    <Compile Include="CompetitorStatusType.cs" />
+    <Compile Include="CountryType.cs" />
+    <Compile Include="valueType4.cs" />
+    <Compile Include="CountryIdType.cs" />
+    <Compile Include="DateType.cs" />
+    <Compile Include="eventFormType.cs" />
+    <Compile Include="EventType.cs" />
+    <Compile Include="lowAgeType.cs" />
+    <Compile Include="sexType.cs" />
+    <Compile Include="numberInTeamType.cs" />
+    <Compile Include="teamEntryType.cs" />
+    <Compile Include="numberOfLegsType.cs" />
+    <Compile Include="numberOfVacanciesType.cs" />
+    <Compile Include="maxNumberInClassType.cs" />
+    <Compile Include="divideClassMethodType.cs" />
+    <Compile Include="actualForRankingType.cs" />
+    <Compile Include="timePresentationType.cs" />
+    <Compile Include="totalResultType.cs" />
+    <Compile Include="normalizedClassType.cs" />
+    <Compile Include="numberOfPrizesType.cs" />
+    <Compile Include="allowEntryInAdvanceType.cs" />
+    <Compile Include="sequenceType.cs" />
+    <Compile Include="EventClassType.cs" />
+    <Compile Include="EventClassIdType.cs" />
+    <Compile Include="valueType5.cs" />
+    <Compile Include="EventClassStatusType.cs" />
+    <Compile Include="EventClassificationIdType.cs" />
+    <Compile Include="EventIdType.cs" />
+    <Compile Include="EventRaceIdType.cs" />
+    <Compile Include="EventStatusIdType.cs" />
+    <Compile Include="ExternalIdType.cs" />
+    <Compile Include="FamilyType.cs" />
+    <Compile Include="FinishDateType.cs" />
+    <Compile Include="FinishTimeType.cs" />
+    <Compile Include="sequenceType2.cs" />
+    <Compile Include="GivenType.cs" />
+    <Compile Include="ModifiedByType.cs" />
+    <Compile Include="ModifyDateType.cs" />
+    <Compile Include="languageIdType2.cs" />
+    <Compile Include="NameType.cs" />
+    <Compile Include="OrganisationType.cs" />
+    <Compile Include="OrganisationIdType.cs" />
+    <Compile Include="sexType2.cs" />
+    <Compile Include="PersonType.cs" />
+    <Compile Include="typeType.cs" />
+    <Compile Include="idManagerType.cs" />
+    <Compile Include="PersonIdType.cs" />
+    <Compile Include="PersonNameType.cs" />
+    <Compile Include="PersonResultType.cs" />
+    <Compile Include="valueType6.cs" />
+    <Compile Include="PunchingUnitTypeType.cs" />
+    <Compile Include="ResultType.cs" />
+    <Compile Include="ResultIdType.cs" />
+    <Compile Include="ResultListType.cs" />
+    <Compile Include="ResultListListType.cs" />
+    <Compile Include="ResultPositionType.cs" />
+    <Compile Include="languageIdType3.cs" />
+    <Compile Include="ShortNameType.cs" />
+    <Compile Include="StartDateType.cs" />
+    <Compile Include="StartTimeType.cs" />
+    <Compile Include="TimeType.cs" />
+    <Compile Include="TimeDiffType.cs" />
+    <Compile Include="WebURLType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AltovaXML\AltovaXML.csproj">
+      <Project>{03AAA791-EC2D-4A90-ABBF-45337E52DFD6}</Project>
+      <Name>AltovaXML</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Altova\Altova.csproj">
+      <Project>{D43E6C54-2DF5-454E-9566-DFFE2F3A6946}</Project>
+      <Name>Altova</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

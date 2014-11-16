@@ -1,0 +1,2508 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EventList>
+  <Event eventForm="IndSingleDay">
+    <EventId>480</EventId>
+    <Name languageId="sv">Oslo City Cup 5</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-05-10</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-05-10</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>480</EventRaceId>
+      <EventId>480</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-05-10</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.73229" y="59.96267"/>
+      <ModifyDate>
+        <Date>2011-03-09</Date>
+        <Clock>15:22:22</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-03-09</Date>
+      <Clock>15:22:22</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>499</EventId>
+    <Name languageId="sv">Nydalten (med KM lang)</Name>
+    <EventClassificationId>2</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-09-03</Date>
+      <Clock>11:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-09-03</Date>
+      <Clock>11:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>499</EventRaceId>
+      <EventId>499</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-09-03</Date>
+        <Clock>11:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.74076" y="59.96527"/>
+      <ModifyDate>
+        <Date>2011-09-04</Date>
+        <Clock>21:30:36</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/nydalten/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-09-04</Date>
+      <Clock>21:30:36</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="499">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Nydalten 2011:
+        KM langdistanse for AOOK og TrimtexCup for DH13-16.
+
+        - Nydalen SK  fyller  125 år  i 2011, og Nydalten har vært arrangert hvert år siden 1947
+      </Value>
+      <ModifyDate>
+        <Date>2011-08-23</Date>
+        <Clock>11:34:22</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="499">
+      <Key>officialResult_499</Key>
+      <Value>2011-09-03 14:19:19</Value>
+      <ModifyDate>
+        <Date>2011-09-03</Date>
+        <Clock>14:19:19</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="499">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2011-08-23</Date>
+        <Clock>11:34:22</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="499">
+      <Key>startList_499</Key>
+      <Value>2011-08-31 20:30:24</Value>
+      <ModifyDate>
+        <Date>2011-08-31</Date>
+        <Clock>20:30:24</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="RelaySingleDay">
+    <EventId>500</EventId>
+    <Name languageId="sv">KM stafett</Name>
+    <EventClassificationId>2</EventClassificationId>
+    <EventStatusId>3</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-09-04</Date>
+      <Clock>12:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-09-04</Date>
+      <Clock>12:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>3</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>500</EventRaceId>
+      <EventId>500</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-09-04</Date>
+        <Clock>12:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.74089" y="59.96561"/>
+      <ModifyDate>
+        <Date>2011-09-04</Date>
+        <Clock>15:09:23</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/nydalten/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-09-04</Date>
+      <Clock>15:09:23</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="500">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Påmelding til KM-stafett via http://nydalen.idrett.no/pmdb/?arrid=1860.
+
+        Se forøvrig arrangementets hjemmeside for mer info.
+      </Value>
+      <ModifyDate>
+        <Date>2011-08-10</Date>
+        <Clock>12:55:48</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>503</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup 1</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-09-21</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-09-21</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Long">
+      <EventRaceId>503</EventRaceId>
+      <EventId>503</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-09-21</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.72922" y="59.96706"/>
+      <ModifyDate>
+        <Date>2011-09-22</Date>
+        <Clock>12:50:39</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-09-22</Date>
+      <Clock>12:50:39</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="503">
+      <Key>officialResult_503</Key>
+      <Value>2011-09-22 12:50:16</Value>
+      <ModifyDate>
+        <Date>2011-09-22</Date>
+        <Clock>12:50:16</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>506</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup 2</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-09-28</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-09-28</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Long">
+      <EventRaceId>506</EventRaceId>
+      <EventId>506</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-09-28</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.67016" y="59.98158"/>
+      <ModifyDate>
+        <Date>2011-09-29</Date>
+        <Clock>08:53:49</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-09-29</Date>
+      <Clock>08:53:49</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="506">
+      <Key>startList_506</Key>
+      <Value>2011-09-27 17:55:36</Value>
+      <ModifyDate>
+        <Date>2011-09-27</Date>
+        <Clock>17:55:36</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="506">
+      <Key>officialResult_506</Key>
+      <Value>2011-09-29 08:53:26</Value>
+      <ModifyDate>
+        <Date>2011-09-29</Date>
+        <Clock>08:53:26</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>508</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup 3</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-10-12</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-10-12</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Long">
+      <EventRaceId>508</EventRaceId>
+      <EventId>508</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-10-12</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.82292" y="59.95551"/>
+      <ModifyDate>
+        <Date>2011-10-13</Date>
+        <Clock>19:40:35</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-10-13</Date>
+      <Clock>19:40:35</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="508">
+      <Key>officialResult_508</Key>
+      <Value>2011-10-13 19:40:13</Value>
+      <ModifyDate>
+        <Date>2011-10-13</Date>
+        <Clock>19:40:13</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>509</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup 4</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-10-21</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-10-21</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Long">
+      <EventRaceId>509</EventRaceId>
+      <EventId>509</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-10-21</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2011-09-26</Date>
+        <Clock>09:37:27</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-09-26</Date>
+      <Clock>09:37:27</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>550</EventId>
+    <Name languageId="sv">Nordmarkskarusell 4</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-08-25</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-08-25</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>550</EventRaceId>
+      <EventId>550</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-08-25</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2011-03-16</Date>
+        <Clock>08:55:47</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">283</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-03-16</Date>
+      <Clock>08:55:47</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">283</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>586</EventId>
+    <Name languageId="sv">NM-uka, langdistanse</Name>
+    <EventClassificationId>1</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-13</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-13</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2012-09-13</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-13</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2012-09-13</Date>
+        <Clock>17:55:34</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>1</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>586</EventRaceId>
+      <EventId>586</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-13</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.80108" y="59.9917"/>
+      <ModifyDate>
+        <Date>2012-09-13</Date>
+        <Clock>17:55:34</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://o-nm2012.no/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-09-13</Date>
+      <Clock>17:55:34</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="586">
+      <Key>startList_586</Key>
+      <Value>2012-09-12 20:55:32</Value>
+      <ModifyDate>
+        <Date>2012-09-12</Date>
+        <Clock>20:55:32</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="586">
+      <Key>officialResult_586</Key>
+      <Value>2012-09-13 17:55:32</Value>
+      <ModifyDate>
+        <Date>2012-09-13</Date>
+        <Clock>17:55:32</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>587</EventId>
+    <Name languageId="sv">NM uka, kvalifisering mellomdistanse</Name>
+    <EventClassificationId>1</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-14</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-14</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2012-09-14</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-14</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2012-09-14</Date>
+        <Clock>17:50:16</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>1</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>587</EventRaceId>
+      <EventId>587</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-14</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.80383" y="59.98689"/>
+      <ModifyDate>
+        <Date>2012-09-14</Date>
+        <Clock>17:50:16</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://o-nm2012.no/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-09-14</Date>
+      <Clock>17:50:16</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="587">
+      <Key>startList_587</Key>
+      <Value>2012-09-12 20:55:20</Value>
+      <ModifyDate>
+        <Date>2012-09-12</Date>
+        <Clock>20:55:20</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="587">
+      <Key>officialResult_587</Key>
+      <Value>2012-09-14 17:50:13</Value>
+      <ModifyDate>
+        <Date>2012-09-14</Date>
+        <Clock>17:50:13</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>588</EventId>
+    <Name languageId="sv">NM uka, mellomdistanse, finaler</Name>
+    <EventClassificationId>1</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-15</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-15</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2012-09-15</Date>
+        <Clock>21:56:58</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>1</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Middle">
+      <EventRaceId>588</EventRaceId>
+      <EventId>588</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.80108" y="59.9862"/>
+      <ModifyDate>
+        <Date>2012-09-15</Date>
+        <Clock>21:56:58</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://o-nm2012.no/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-09-15</Date>
+      <Clock>21:56:59</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="588">
+      <Key>startList_588</Key>
+      <Value>2012-09-14 22:52:27</Value>
+      <ModifyDate>
+        <Date>2012-09-14</Date>
+        <Clock>22:52:27</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="588">
+      <Key>officialResult_588</Key>
+      <Value>2012-09-15 21:56:56</Value>
+      <ModifyDate>
+        <Date>2012-09-15</Date>
+        <Clock>21:56:56</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="RelaySingleDay">
+    <EventId>589</EventId>
+    <Name languageId="sv">NM uka, stafett (Påmelding her: http://nydalen.idrett.no/pmdb/index.php?arrid=2197)</Name>
+    <EventClassificationId>1</EventClassificationId>
+    <EventStatusId>6</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-16</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-16</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2012-09-16</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-16</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2012-09-05</Date>
+        <Clock>23:25:51</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>1</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>589</EventRaceId>
+      <EventId>589</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-16</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.80108" y="59.98483"/>
+      <ModifyDate>
+        <Date>2012-09-05</Date>
+        <Clock>23:25:51</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://o-nm2012.no/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-09-05</Date>
+      <Clock>23:25:52</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="589">
+      <Key>Eventor_RelayLineupSubmissionDeadline</Key>
+      <Value>2012-09-15 20:00:59</Value>
+      <ModifyDate>
+        <Date>2012-04-30</Date>
+        <Clock>18:19:47</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="589">
+      <Key>Eventor_RequireTeamContact</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2012-04-30</Date>
+        <Clock>18:19:47</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="589">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Påmelding til NM stafett her:
+        http://nydalen.idrett.no/pmdb/index.php?arrid=2197
+      </Value>
+      <ModifyDate>
+        <Date>2012-08-28</Date>
+        <Clock>21:41:02</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>748</EventId>
+    <Name languageId="sv">NSK Klubbmesterskap 2011</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-06-07</Date>
+      <Clock>18:31:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-06-07</Date>
+      <Clock>18:31:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>750</EventRaceId>
+      <EventId>748</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-06-07</Date>
+        <Clock>18:31:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.66986" y="59.98186"/>
+      <ModifyDate>
+        <Date>2011-06-08</Date>
+        <Clock>00:33:53</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/klubbmesterskap-2011/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-06-08</Date>
+      <Clock>00:33:53</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="748">
+      <Key>officialResult_750</Key>
+      <Value>2011-06-08 00:33:40</Value>
+      <ModifyDate>
+        <Date>2011-06-08</Date>
+        <Clock>00:33:40</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="748">
+      <Key>startList_750</Key>
+      <Value>2011-06-07 08:01:24</Value>
+      <ModifyDate>
+        <Date>2011-06-07</Date>
+        <Clock>08:01:24</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>881</EventId>
+    <Name languageId="sv">Nydalten 2012</Name>
+    <EventClassificationId>3</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-15</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-15</Date>
+      <Clock>17:15:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2012-09-18</Date>
+        <Clock>01:26:17</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Middle">
+      <EventRaceId>884</EventRaceId>
+      <EventId>881</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.77683" y="59.98809"/>
+      <ModifyDate>
+        <Date>2012-09-18</Date>
+        <Clock>01:26:17</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">2073</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/nydalten/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-09-18</Date>
+      <Clock>01:26:17</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">2073</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="881">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2012-09-13</Date>
+        <Clock>01:21:34</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="881">
+      <Key>officialResult_884</Key>
+      <Value>2012-09-18 01:26:14</Value>
+      <ModifyDate>
+        <Date>2012-09-18</Date>
+        <Clock>01:26:14</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="881">
+      <Key>Eventor_Message</Key>
+      <Value>Fri start i alle klasser. Ingen start før siste målgang i NM - stipulert tid for dette er kl 14:15. Starttid reguleres etter oppmøte ved start og instruks fra funksjonær (Kort, men sportslig intervall for hver løype, etter &quot;Harry Lagert-metoden&quot;)</Value>
+      <ModifyDate>
+        <Date>2012-09-13</Date>
+        <Clock>01:21:34</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="881">
+      <Key>startList_884</Key>
+      <Value>2012-09-15 13:30:32</Value>
+      <ModifyDate>
+        <Date>2012-09-15</Date>
+        <Clock>13:30:32</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>882</EventId>
+    <Name languageId="sv">Nordmarkskarusellen 2</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-05-31</Date>
+      <Clock>16:30:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-05-31</Date>
+      <Clock>20:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>885</EventRaceId>
+      <EventId>882</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-05-31</Date>
+        <Clock>16:30:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.77833" y="60.027"/>
+      <ModifyDate>
+        <Date>2012-06-01</Date>
+        <Clock>00:07:15</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">4084</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://www.nordmarkskarusellen.com</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-06-01</Date>
+      <Clock>00:07:15</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">4084</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="882">
+      <Key>Eventor_Message</Key>
+      <Value>Del av NK 2012</Value>
+      <ModifyDate>
+        <Date>2012-05-25</Date>
+        <Clock>07:52:51</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1067</EventId>
+    <Name languageId="sv">Retronatta</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2011-11-08</Date>
+      <Clock>18:30:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2011-11-08</Date>
+      <Clock>20:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>1088</EventRaceId>
+      <EventId>1067</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2011-11-08</Date>
+        <Clock>18:30:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.73911" y="59.98114"/>
+      <ModifyDate>
+        <Date>2011-11-08</Date>
+        <Clock>21:41:03</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">13</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/2011/11/04/retronatta-tirsdag-8-november/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2011-11-08</Date>
+      <Clock>21:41:03</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">13</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1067">
+      <Key>Eventor_Message</Key>
+      <Value>Løpere fra andre klubber enn Nydalens SK er velkomne og betaler 20 kr ved oppmøte. ----------------------- Vi har trykket 35 kart, så alt håp er ikke ute selv om fristen er det.</Value>
+      <ModifyDate>
+        <Date>2011-11-08</Date>
+        <Clock>07:50:38</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1067">
+      <Key>officialResult_1088</Key>
+      <Value>2011-11-08 21:41:01</Value>
+      <ModifyDate>
+        <Date>2011-11-08</Date>
+        <Clock>21:41:01</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1436</EventId>
+    <Name languageId="sv">Oslo City Cup, løp 3</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-04-24</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-04-24</Date>
+      <Clock>20:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>1500</EventRaceId>
+      <EventId>1436</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-04-24</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.7214" y="59.94005"/>
+      <ModifyDate>
+        <Date>2012-04-24</Date>
+        <Clock>22:37:01</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">87</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-04-24</Date>
+      <Clock>22:37:01</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1436">
+      <Key>startList_1500</Key>
+      <Value>2012-04-24 15:05:37</Value>
+      <ModifyDate>
+        <Date>2012-04-24</Date>
+        <Clock>15:05:37</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1436">
+      <Key>Eventor_Message</Key>
+      <Value>Merk at man får rabatt ved påmelding til alle 5 løp innen 4/4-2012</Value>
+      <ModifyDate>
+        <Date>2012-03-14</Date>
+        <Clock>18:10:39</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1436">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2012-03-14</Date>
+        <Clock>18:10:39</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1436">
+      <Key>officialResult_1500</Key>
+      <Value>2012-04-24 22:36:53</Value>
+      <ModifyDate>
+        <Date>2012-04-24</Date>
+        <Clock>22:36:53</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1472</EventId>
+    <Name languageId="sv">O-idol</Name>
+    <EventClassificationId>2</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-16</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-16</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>1536</EventRaceId>
+      <EventId>1472</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-16</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.79833" y="59.98689"/>
+      <ModifyDate>
+        <Date>2012-09-16</Date>
+        <Clock>20:42:36</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://o-nm2012.no</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-09-16</Date>
+      <Clock>20:42:36</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1472">
+      <Key>officialResult_1536</Key>
+      <Value>2012-09-16 20:42:34</Value>
+      <ModifyDate>
+        <Date>2012-09-16</Date>
+        <Clock>20:42:34</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1472">
+      <Key>startList_1536</Key>
+      <Value>2012-09-16 20:31:08</Value>
+      <ModifyDate>
+        <Date>2012-09-16</Date>
+        <Clock>20:31:08</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1520</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup, Løp nr 1</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-19</Date>
+      <Clock>19:30:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-19</Date>
+      <Clock>21:30:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>1584</EventRaceId>
+      <EventId>1520</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-19</Date>
+        <Clock>19:30:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.6693" y="59.96447"/>
+      <ModifyDate>
+        <Date>2012-10-17</Date>
+        <Clock>22:00:50</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-17</Date>
+      <Clock>22:00:50</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1520">
+      <Key>startList_1584</Key>
+      <Value>2012-09-19 18:46:26</Value>
+      <ModifyDate>
+        <Date>2012-09-19</Date>
+        <Clock>18:46:26</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1520">
+      <Key>officialResult_1584</Key>
+      <Value>2012-09-25 16:43:31</Value>
+      <ModifyDate>
+        <Date>2012-09-25</Date>
+        <Clock>16:43:31</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1521</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup, Løp nr 2</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-09-26</Date>
+      <Clock>19:15:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-09-26</Date>
+      <Clock>21:15:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>1585</EventRaceId>
+      <EventId>1521</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-09-26</Date>
+        <Clock>19:15:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.76317" y="60.00246"/>
+      <ModifyDate>
+        <Date>2012-10-17</Date>
+        <Clock>22:03:15</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-17</Date>
+      <Clock>22:03:15</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1521">
+      <Key>officialResult_1585</Key>
+      <Value>2012-09-26 23:46:27</Value>
+      <ModifyDate>
+        <Date>2012-09-26</Date>
+        <Clock>23:46:27</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1521">
+      <Key>startList_1585</Key>
+      <Value>2012-09-26 08:37:20</Value>
+      <ModifyDate>
+        <Date>2012-09-26</Date>
+        <Clock>08:37:20</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1522</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup, Løp nr 3</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-10-10</Date>
+      <Clock>19:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-10-10</Date>
+      <Clock>21:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>1586</EventRaceId>
+      <EventId>1522</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-10-10</Date>
+        <Clock>19:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.79617" y="59.99819"/>
+      <ModifyDate>
+        <Date>2012-10-17</Date>
+        <Clock>22:26:42</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-17</Date>
+      <Clock>22:26:42</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1522">
+      <Key>startList_1586</Key>
+      <Value>2012-10-09 21:35:38</Value>
+      <ModifyDate>
+        <Date>2012-10-09</Date>
+        <Clock>21:35:38</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1522">
+      <Key>officialResult_1586</Key>
+      <Value>2012-10-17 22:26:40</Value>
+      <ModifyDate>
+        <Date>2012-10-17</Date>
+        <Clock>22:26:40</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1523</EventId>
+    <Name languageId="sv">Harry Lagert Nattcup, Finale</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-10-19</Date>
+      <Clock>17:30:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-10-19</Date>
+      <Clock>21:30:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Long">
+      <EventRaceId>1587</EventRaceId>
+      <EventId>1523</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-10-19</Date>
+        <Clock>17:30:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.79296" y="59.9697"/>
+      <ModifyDate>
+        <Date>2012-10-19</Date>
+        <Clock>23:25:00</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-19</Date>
+      <Clock>23:25:00</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1523">
+      <Key>startList_1587</Key>
+      <Value>2012-10-19 13:21:41</Value>
+      <ModifyDate>
+        <Date>2012-10-19</Date>
+        <Clock>13:21:41</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1523">
+      <Key>officialResult_1587</Key>
+      <Value>2012-10-19 23:24:57</Value>
+      <ModifyDate>
+        <Date>2012-10-19</Date>
+        <Clock>23:24:57</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1523">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2012-10-17 23:58:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2012-10-17</Date>
+        <Clock>21:56:47</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1586</EventId>
+    <Name languageId="sv">AOOK Sprint-trening i Nydalen</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-04-14</Date>
+      <Clock>11:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-04-14</Date>
+      <Clock>13:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>1650</EventRaceId>
+      <EventId>1586</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-04-14</Date>
+        <Clock>11:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.76434" y="59.94591"/>
+      <ModifyDate>
+        <Date>2012-04-14</Date>
+        <Clock>18:18:33</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-04-14</Date>
+      <Clock>18:18:33</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1586">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Åpen kretstrening sprint for jr/sr, Badebakken i Nydalen. Forberedelse til EM-uttak. Fri start fra kl 11.00. Mål stenger kl 13.00
+        Påmelding for dimensjonering av kart innen torsdag 12.4 kl 23.59
+      </Value>
+      <ModifyDate>
+        <Date>2012-04-12</Date>
+        <Clock>09:50:25</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1586">
+      <Key>officialResult_1650</Key>
+      <Value>2012-04-14 18:18:30</Value>
+      <ModifyDate>
+        <Date>2012-04-14</Date>
+        <Clock>18:18:30</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>1798</EventId>
+    <Name languageId="sv">Nydalens SKs klubbmesterskap 2012</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-06-05</Date>
+      <Clock>18:31:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-06-05</Date>
+      <Clock>18:31:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Middle">
+      <EventRaceId>1867</EventRaceId>
+      <EventId>1798</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-06-05</Date>
+        <Clock>18:31:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.7273" y="59.98047"/>
+      <ModifyDate>
+        <Date>2012-06-08</Date>
+        <Clock>11:09:24</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/klubbmesterskap/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-06-08</Date>
+      <Clock>11:09:24</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="1798">
+      <Key>startList_1867</Key>
+      <Value>2012-06-04 22:05:10</Value>
+      <ModifyDate>
+        <Date>2012-06-04</Date>
+        <Clock>22:05:10</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="1798">
+      <Key>officialResult_1867</Key>
+      <Value>2012-06-08 11:09:19</Value>
+      <ModifyDate>
+        <Date>2012-06-08</Date>
+        <Clock>11:09:19</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2007</EventId>
+    <Name languageId="sv">Nydalten. Trimtexcup og uttak Unionsmatchen</Name>
+    <EventClassificationId>3</EventClassificationId>
+    <EventStatusId>5</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-05-12</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-05-12</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>2</Sequence>
+      <StartDate>
+        <Date>2013-09-29</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2013-09-29</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2013-05-11</Date>
+        <Clock>21:38:49</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2013-05-12</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2013-05-12</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2013-05-11</Date>
+        <Clock>21:38:49</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>2092</EventRaceId>
+      <EventId>2007</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-05-12</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.76345" y="60.00464"/>
+      <ModifyDate>
+        <Date>2013-05-11</Date>
+        <Clock>21:38:49</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/nydalten/</WebURL>
+    <Comment languageId="sv">
+      Ønsker Trimtex-cup
+      Bruker kart fra NM 2012, kartene er ferdige og godkjent.
+      Arena vil være avhengig av årstid.
+    </Comment>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-05-11</Date>
+      <Clock>21:38:49</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">2073</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2007">
+      <Key>startList_2092</Key>
+      <Value>2013-05-11 21:38:45</Value>
+      <ModifyDate>
+        <Date>2013-05-11</Date>
+        <Clock>21:38:45</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2007">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-05-06 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-05-10</Date>
+        <Clock>18:32:39</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2134</EventId>
+    <Name languageId="sv">Retronatta 2012</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-10-24</Date>
+      <Clock>18:30:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-10-24</Date>
+      <Clock>20:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>1</ClassTypeId>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2226</EventRaceId>
+      <EventId>2134</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-10-24</Date>
+        <Clock>18:30:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.79712" y="60.00257"/>
+      <ModifyDate>
+        <Date>2012-10-24</Date>
+        <Clock>22:19:42</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">13</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/2012/10/15/retronatta-2012/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-24</Date>
+      <Clock>22:19:42</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">13</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2134">
+      <Key>officialResult_2226</Key>
+      <Value>2012-10-24 22:19:40</Value>
+      <ModifyDate>
+        <Date>2012-10-24</Date>
+        <Clock>22:19:40</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2134">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2012-10-23 23:59:59;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2012-10-14</Date>
+        <Clock>17:59:31</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2160</EventId>
+    <Name languageId="sv">Harry Lagerts Nattcup 2013 Løp1</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-09-18</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-09-18</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2252</EventRaceId>
+      <EventId>2160</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-09-18</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2012-10-20</Date>
+        <Clock>12:39:52</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-20</Date>
+      <Clock>12:39:52</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2161</EventId>
+    <Name languageId="sv">Harry Lagerts Nattcup 2013 Løp2</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-09-25</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-09-25</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2253</EventRaceId>
+      <EventId>2161</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-09-25</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2012-10-20</Date>
+        <Clock>12:40:19</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-20</Date>
+      <Clock>12:40:19</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2162</EventId>
+    <Name languageId="sv">Harry Lagerts Nattcup 2013 Løp3</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-10-02</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-10-02</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2254</EventRaceId>
+      <EventId>2162</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-10-02</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2012-10-20</Date>
+        <Clock>12:40:44</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="other"/>
+    <ModifyDate>
+      <Date>2012-10-20</Date>
+      <Clock>12:40:44</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2163</EventId>
+    <Name languageId="sv">Harry Lagerts Nattcup 2013 Løp4</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-10-09</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-10-09</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2255</EventRaceId>
+      <EventId>2163</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-10-09</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2012-10-20</Date>
+        <Clock>12:41:07</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-20</Date>
+      <Clock>12:41:07</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2164</EventId>
+    <Name languageId="sv">Harry Lagerts Nattcup 2013 Løp5</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-10-16</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-10-16</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2256</EventRaceId>
+      <EventId>2164</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-10-16</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2012-10-20</Date>
+        <Clock>12:41:28</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-20</Date>
+      <Clock>12:41:28</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2165</EventId>
+    <Name languageId="sv">Harry Lagerts Nattcup 2013 Finale</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-10-25</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-10-25</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Long">
+      <EventRaceId>2257</EventRaceId>
+      <EventId>2165</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-10-25</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2012-10-20</Date>
+        <Clock>12:41:50</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-10-20</Date>
+      <Clock>12:41:50</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">236</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2376</EventId>
+    <Name languageId="sv">NSK Vintercup #1</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2012-11-27</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2012-11-27</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2483</EventRaceId>
+      <EventId>2376</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2012-11-27</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.7529" y="59.96458"/>
+      <ModifyDate>
+        <Date>2012-11-28</Date>
+        <Clock>15:19:59</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/orientering/2012/11/19/vintercup-i-gateorientering-forste-lop-27-november/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2012-11-28</Date>
+      <Clock>15:19:59</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">10</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2376">
+      <Key>officialResult_2483</Key>
+      <Value>2012-11-28 15:19:57</Value>
+      <ModifyDate>
+        <Date>2012-11-28</Date>
+        <Clock>15:19:57</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2376">
+      <Key>Eventor_Message</Key>
+      <Value>Pga en feil med MTR'en vår så er det dessverre ikke strekktider.</Value>
+      <ModifyDate>
+        <Date>2012-11-28</Date>
+        <Clock>14:59:17</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2376">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2012-11-26 13:00:59;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2012-11-27</Date>
+        <Clock>12:34:48</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2376">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2012-11-28</Date>
+        <Clock>14:59:17</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2514</EventId>
+    <Name languageId="sv">NSK Vintercup #2</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-01-22</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-01-22</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Sprint">
+      <EventRaceId>2624</EventRaceId>
+      <EventId>2514</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-01-22</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.72449" y="59.94592"/>
+      <ModifyDate>
+        <Date>2013-01-22</Date>
+        <Clock>23:33:59</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://www.nydalen.idrett.no</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-01-22</Date>
+      <Clock>23:34:00</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2514">
+      <Key>Eventor_Message</Key>
+      <Value>Da er det klart for Vintercup nr 2. Start fra Domus Atletica mellom kl 18 og 19. </Value>
+      <ModifyDate>
+        <Date>2013-01-16</Date>
+        <Clock>11:12:50</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2514">
+      <Key>officialResult_2624</Key>
+      <Value>2013-01-22 23:33:57</Value>
+      <ModifyDate>
+        <Date>2013-01-22</Date>
+        <Clock>23:33:57</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2514">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-01-21 23:59:59;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-01-14</Date>
+        <Clock>21:35:05</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2537</EventId>
+    <Name languageId="sv">NSK Vintercup #3</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-02-05</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-02-05</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Sprint">
+      <EventRaceId>2650</EventRaceId>
+      <EventId>2537</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-02-05</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.79375" y="59.97051"/>
+      <ModifyDate>
+        <Date>2013-02-07</Date>
+        <Clock>22:54:44</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://www.nydalen.idrett.no</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-02-07</Date>
+      <Clock>22:54:44</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2537">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Velkommen til Vintercup #3. Start fra Langsetløkka mellom 18-19
+
+        NB:
+        Nydalen SK arrangerer handlekveld for sine medlemmer fra varmestua  til Kjelsås IL på Langsetløkka samme sted som start/mål fra 19-21.
+      </Value>
+      <ModifyDate>
+        <Date>2013-02-07</Date>
+        <Clock>22:34:11</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2537">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-02-03 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-02-07</Date>
+        <Clock>22:34:26</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2537">
+      <Key>officialResult_2650</Key>
+      <Value>2013-02-07 22:54:42</Value>
+      <ModifyDate>
+        <Date>2013-02-07</Date>
+        <Clock>22:54:42</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2594</EventId>
+    <Name languageId="sv">NSK Vintercup #4</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-03-05</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-03-05</Date>
+      <Clock>19:30:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Night" raceDistance="Sprint">
+      <EventRaceId>2713</EventRaceId>
+      <EventId>2594</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-03-05</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.76508" y="59.94682"/>
+      <ModifyDate>
+        <Date>2013-03-06</Date>
+        <Clock>18:08:00</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">2040</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-06</Date>
+      <Clock>18:08:00</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2594">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-03-03 23:59:59;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-02-27</Date>
+        <Clock>19:17:10</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2594">
+      <Key>officialResult_2713</Key>
+      <Value>2013-03-06 18:07:57</Value>
+      <ModifyDate>
+        <Date>2013-03-06</Date>
+        <Clock>18:07:57</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2627</EventId>
+    <Name languageId="sv">Oslo City Cup, Løp nr 4</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>9</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-04-30</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-04-30</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>2746</EventRaceId>
+      <EventId>2627</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-04-30</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.75318" y="59.96455"/>
+      <ModifyDate>
+        <Date>2013-05-10</Date>
+        <Clock>06:54:03</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ </WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-05-10</Date>
+      <Clock>06:54:03</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1817</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>officialResult_2746</Key>
+      <Value>2013-05-07 23:18:09</Value>
+      <ModifyDate>
+        <Date>2013-05-07</Date>
+        <Clock>23:18:09</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>startList_2746</Key>
+      <Value>2013-05-10 06:54:01</Value>
+      <ModifyDate>
+        <Date>2013-05-10</Date>
+        <Clock>06:54:01</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Løp nr 4 i Oslo City Cup 2013. Øvrige løp arrangeres 9/4, 16/4, 23/4 og 7/5.
+        Etteranmelding i Eventor frem til 30/4 kl 12:30. Etter det: Direkte på løpet innen kl 17:30.
+      </Value>
+      <ModifyDate>
+        <Date>2013-04-29</Date>
+        <Clock>08:24:50</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-04-26 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-04-30</Date>
+        <Clock>11:08:27</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-04-29</Date>
+        <Clock>08:24:50</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2911</EventId>
+    <Name languageId="sv">Råtassløp nr 1 2013</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-05-06</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-05-06</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Middle">
+      <EventRaceId>3037</EventRaceId>
+      <EventId>2911</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-05-06</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.75424" y="59.96554"/>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>11:20:32</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">4084</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-05-01</Date>
+      <Clock>11:20:32</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">4084</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2911">
+      <Key>Eventor_Message</Key>
+      <Value>
+        Rekruttløp for Heming, Fossum og Nydalen for løpere opp til 12 år. Øvrige løp arrangeres 3/6 (Heming) og 9/9 (Fossum).
+        Påmelding gjennom palisoft: http://nydalen.idrett.no/pmdb/index.php?arrid=2416
+      </Value>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>11:06:56</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2913</EventId>
+    <Name languageId="sv">Nydalens SK Klubbmesterskap</Name>
+    <EventClassificationId>5</EventClassificationId>
+    <EventStatusId>5</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-06-04</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-06-04</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>3039</EventRaceId>
+      <EventId>2913</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-06-04</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.81162" y="60.03774"/>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>12:52:52</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">4084</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-05-01</Date>
+      <Clock>12:52:52</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">4084</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2913">
+      <Key>Eventor_Message</Key>
+      <Value>Klubbmesterskap for Nydalens SK.  Innbydelse blir lagt ut ca 15/5. </Value>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>12:52:53</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2913">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-06-02 23:59:59;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>12:46:48</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2914</EventId>
+    <Name languageId="sv">Nordmarkskarusellen 2013, løp nr 4</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-08-22</Date>
+      <Clock>17:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-08-22</Date>
+      <Clock>17:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Day" raceDistance="Long">
+      <EventRaceId>3040</EventRaceId>
+      <EventId>2914</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-08-22</Date>
+        <Clock>17:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.80076" y="60.02164"/>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>12:10:03</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">4084</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://www.nordmarkskarusellen.com/</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-05-01</Date>
+      <Clock>12:10:03</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">4084</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2914">
+      <Key>Eventor_Message</Key>
+      <Value>Løpet inkluderer OBIK Poengløp nr 20. Ingen forhåndspåmelding</Value>
+      <ModifyDate>
+        <Date>2013-05-01</Date>
+        <Clock>12:10:03</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+</EventList>

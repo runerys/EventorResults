@@ -1,0 +1,638 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EventList>
+  <Event eventForm="IndSingleDay">
+    <EventId>1983</EventId>
+    <Name languageId="sv">Folloløpet på Nesodden Trimtexcup og uttak Unionsmatch</Name>
+    <EventClassificationId>3</EventClassificationId>
+    <EventStatusId>3</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-05-26</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-05-26</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <AlternativeDates>
+      <Sequence>1</Sequence>
+      <StartDate>
+        <Date>2013-05-12</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2013-05-12</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <ModifyDate>
+        <Date>2013-03-26</Date>
+        <Clock>08:24:59</Clock>
+      </ModifyDate>
+    </AlternativeDates>
+    <Organiser>
+      <OrganisationId>227</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EventRace raceLightCondition="Day" raceDistance="Middle">
+      <EventRaceId>2068</EventRaceId>
+      <EventId>1983</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-05-26</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.65531" y="59.82254"/>
+      <ModifyDate>
+        <Date>2013-03-26</Date>
+        <Clock>08:24:58</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">5077</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://maaren-ok.org/</WebURL>
+    <Comment languageId="sv">
+      Ønsker Trimtex-cup og/eller uttak til Unionsmatch.
+
+      Kart: Gaupefjell, 1:10000, utgitt 2011 (til O-festivalen 2011)
+    </Comment>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-26</Date>
+      <Clock>08:24:59</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">5077</PersonId>
+    </ModifiedBy>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2295</EventId>
+    <Name languageId="sv">Ås by Night &amp; Fog Cup #8</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>11</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-03-19</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-03-19</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>402</OrganisationId>
+    </Organiser>
+    <EntryBreak>
+      <ValidToDate>
+        <Date>2013-03-18</Date>
+        <Clock>23:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-03-18</Date>
+        <Clock>16:01:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-03-18</Date>
+        <Clock>23:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2396</EventRaceId>
+      <EventId>2295</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-03-19</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.80633" y="59.67192"/>
+      <ModifyDate>
+        <Date>2013-03-30</Date>
+        <Clock>13:53:48</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">279</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://student.umb.no/~orientering/ascup/2013/abnfc13.php</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-30</Date>
+      <Clock>13:53:48</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">279</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2295">
+      <Key>Eventor_Message</Key>
+      <Value>Resultater korrigert - begrunnelse på løpets nettside</Value>
+      <ModifyDate>
+        <Date>2013-03-23</Date>
+        <Clock>00:48:11</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2295">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-03-18 16:00:59;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-03-11</Date>
+        <Clock>08:52:01</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2295">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-23</Date>
+        <Clock>00:48:11</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2295">
+      <Key>officialResult_2396</Key>
+      <Value>2013-03-23 00:45:59</Value>
+      <ModifyDate>
+        <Date>2013-03-23</Date>
+        <Clock>00:45:59</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2296</EventId>
+    <Name languageId="sv">Ås by Night &amp; Fog Cup Finale</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-04-09</Date>
+      <Clock>00:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-04-09</Date>
+      <Clock>00:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>402</OrganisationId>
+    </Organiser>
+    <EventRace raceLightCondition="Night" raceDistance="Middle">
+      <EventRaceId>2397</EventRaceId>
+      <EventId>2296</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-04-09</Date>
+        <Clock>00:00:00</Clock>
+      </RaceDate>
+      <ModifyDate>
+        <Date>2013-03-15</Date>
+        <Clock>10:48:12</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">279</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-15</Date>
+      <Clock>10:48:12</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">279</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2296">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-15</Date>
+        <Clock>10:47:59</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2627</EventId>
+    <Name languageId="sv">Oslo City Cup, Løp nr 4</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>5</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-04-30</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-04-30</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>245</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-04-27</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-04-30</Date>
+        <Clock>17:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-03-05</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-04-26</Date>
+        <Clock>23:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-03-05</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-04-30</Date>
+        <Clock>17:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>2746</EventRaceId>
+      <EventId>2627</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-04-30</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.75318" y="59.96455"/>
+      <ModifyDate>
+        <Date>2013-03-13</Date>
+        <Clock>21:45:20</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">4084</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ </WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-13</Date>
+      <Clock>21:45:20</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">4084</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>Eventor_Message</Key>
+      <Value>Løp nr 4 i Oslo City Cup 2013. Øvrige løp arrangeres 9/4, 16/4, 23/4 og 7/5</Value>
+      <ModifyDate>
+        <Date>2013-03-05</Date>
+        <Clock>21:03:07</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-04-26 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-03-05</Date>
+        <Clock>21:01:26</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2627">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-05</Date>
+        <Clock>21:03:07</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2634</EventId>
+    <Name languageId="sv">Oslo City Cup</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>4</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-04-23</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-04-23</Date>
+      <Clock>20:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>114</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <ClassTypeId>3</ClassTypeId>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-04-20</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-04-23</Date>
+        <Clock>17:30:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidToDate>
+        <Date>2013-04-23</Date>
+        <Clock>17:30:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>2753</EventRaceId>
+      <EventId>2634</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-04-23</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.65243" y="59.95478"/>
+      <ModifyDate>
+        <Date>2013-03-08</Date>
+        <Clock>19:01:26</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">7392</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-08</Date>
+      <Clock>19:01:26</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">7392</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2634">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-04-19 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-03-08</Date>
+        <Clock>18:52:00</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2634">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-08</Date>
+        <Clock>18:16:04</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2636</EventId>
+    <Name languageId="sv">Oslo City Cup 2</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>5</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-04-16</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-04-16</Date>
+      <Clock>20:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>32</OrganisationId>
+    </Organiser>
+    <EntryBreak>
+      <ValidToDate>
+        <Date>2013-04-14</Date>
+        <Clock>20:00:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-04-13</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-04-14</Date>
+        <Clock>20:00:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidToDate>
+        <Date>2013-04-12</Date>
+        <Clock>23:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>2755</EventRaceId>
+      <EventId>2636</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-04-16</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.81503" y="59.87094"/>
+      <ModifyDate>
+        <Date>2013-03-09</Date>
+        <Clock>21:33:03</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1204</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-09</Date>
+      <Clock>21:33:04</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">1204</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2636">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-04-12 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-03-09</Date>
+        <Clock>11:45:31</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2636">
+      <Key>Eventor_Message</Key>
+      <Value>NB! Det er ikke mulig å leie brikker fra arrangørene. De som ikke har egen brikke må leie/låne fra egen klubb. Dette brikkenummeret må oppgis ved påmelding. Brikker kan evt. kjøpes hos NOF (www.orientering.no) </Value>
+      <ModifyDate>
+        <Date>2013-03-09</Date>
+        <Clock>11:21:13</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2636">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-09</Date>
+        <Clock>11:21:13</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2639</EventId>
+    <Name languageId="sv">Oslo City Cup 2013 Finale</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>5</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-05-07</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-05-07</Date>
+      <Clock>20:30:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>268</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EntryBreak>
+      <ValidToDate>
+        <Date>2013-05-05</Date>
+        <Clock>23:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-05-04</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-05-05</Date>
+        <Clock>23:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>2758</EventRaceId>
+      <EventId>2639</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-05-07</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.84657" y="59.86463"/>
+      <ModifyDate>
+        <Date>2013-03-12</Date>
+        <Clock>08:37:11</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">92</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-12</Date>
+      <Clock>08:37:11</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">92</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2639">
+      <Key>Eventor_EntryChangeDeadlines</Key>
+      <Value>2013-05-03 23:59:00;EventClass,EventRaces,NumberOfCompetitors,Person,Organisation,PunchingCard,ServiceRequests</Value>
+      <ModifyDate>
+        <Date>2013-03-12</Date>
+        <Clock>08:30:51</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2639">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-12</Date>
+        <Clock>08:36:30</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+  <Event eventForm="IndSingleDay">
+    <EventId>2654</EventId>
+    <Name languageId="sv">Oslo City Cup, Løp nr. 1</Name>
+    <EventClassificationId>4</EventClassificationId>
+    <EventStatusId>5</EventStatusId>
+    <DisciplineId>1</DisciplineId>
+    <StartDate>
+      <Date>2013-04-09</Date>
+      <Clock>18:00:00</Clock>
+    </StartDate>
+    <FinishDate>
+      <Date>2013-04-09</Date>
+      <Clock>18:00:00</Clock>
+    </FinishDate>
+    <Organiser>
+      <OrganisationId>203</OrganisationId>
+    </Organiser>
+    <ClassTypeId>2</ClassTypeId>
+    <EntryBreak>
+      <ValidToDate>
+        <Date>2013-04-07</Date>
+        <Clock>19:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EntryBreak>
+      <ValidFromDate>
+        <Date>2013-04-06</Date>
+        <Clock>00:00:00</Clock>
+      </ValidFromDate>
+      <ValidToDate>
+        <Date>2013-04-07</Date>
+        <Clock>19:59:59</Clock>
+      </ValidToDate>
+    </EntryBreak>
+    <EventRace raceLightCondition="Day" raceDistance="Sprint">
+      <EventRaceId>2773</EventRaceId>
+      <EventId>2654</EventId>
+      <Name/>
+      <RaceDate>
+        <Date>2013-04-09</Date>
+        <Clock>18:00:00</Clock>
+      </RaceDate>
+      <EventCenterPosition x="10.67631" y="59.90475"/>
+      <ModifyDate>
+        <Date>2013-03-25</Date>
+        <Clock>11:43:44</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">3009</PersonId>
+      </ModifiedBy>
+    </EventRace>
+    <WebURL>http://nydalen.idrett.no/occ</WebURL>
+    <Comment/>
+    <PunchingUnitType value="Emit"/>
+    <ModifyDate>
+      <Date>2013-03-25</Date>
+      <Clock>11:43:44</Clock>
+    </ModifyDate>
+    <ModifiedBy>
+      <PersonId type="nat" idManager="SWE">3009</PersonId>
+    </ModifiedBy>
+    <HashTableEntry entity="Events" id="2654">
+      <Key>Eventor_Message</Key>
+      <Value>Løp nr. 1 i Oslo City Cup 2013. Øvrige løp arrangeres 16/4, 23/4, 30/4 og 7/5. </Value>
+      <ModifyDate>
+        <Date>2013-03-13</Date>
+        <Clock>20:05:10</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+    <HashTableEntry entity="Events" id="2654">
+      <Key>Eventor_ConsultationPerformed</Key>
+      <Value>1</Value>
+      <ModifyDate>
+        <Date>2013-03-13</Date>
+        <Clock>20:05:10</Clock>
+      </ModifyDate>
+    </HashTableEntry>
+  </Event>
+</EventList>

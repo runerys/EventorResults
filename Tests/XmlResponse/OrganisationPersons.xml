@@ -1,0 +1,6902 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PersonList>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tommelstad</Family>
+      <Given sequence="1">Einar</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8</PersonId>
+    <BirthDate>
+      <Date>1980-05-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>2</OrganisationId>
+    <ModifyDate>
+      <Date>2013-01-23</Date>
+      <Clock>17:25:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Øksenholt</Family>
+      <Given sequence="1">Anders B.</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10</PersonId>
+    <BirthDate>
+      <Date>1980-03-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-11-09</Date>
+      <Clock>13:48:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ragvin</Family>
+      <Given sequence="1">Nicole</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12</PersonId>
+    <BirthDate>
+      <Date>1981-06-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-08</Date>
+      <Clock>16:58:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rystad</Family>
+      <Given sequence="1">Rune</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">13</PersonId>
+    <BirthDate>
+      <Date>1977-11-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-15</Date>
+      <Clock>20:57:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Aarnes</Family>
+      <Given sequence="1">Sofie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">20</PersonId>
+    <BirthDate>
+      <Date>1988-05-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-14</Date>
+      <Clock>20:41:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hole</Family>
+      <Given sequence="1">Torstein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">87</PersonId>
+    <BirthDate>
+      <Date>1973-07-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-20</Date>
+      <Clock>09:56:44</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hole</Family>
+      <Given sequence="1">Alexander Skeppland</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">88</PersonId>
+    <BirthDate>
+      <Date>1998-03-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-02-27</Date>
+      <Clock>19:17:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nielsen</Family>
+      <Given sequence="1">Jon Petter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">236</PersonId>
+    <BirthDate>
+      <Date>1957-01-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-09-24</Date>
+      <Clock>15:56:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Trøan</Family>
+      <Given sequence="1">Hans</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">358</PersonId>
+    <BirthDate>
+      <Date>1975-03-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-14</Date>
+      <Clock>13:22:34</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Madslien</Family>
+      <Given sequence="1">Jørgen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">563</PersonId>
+    <BirthDate>
+      <Date>1994-04-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-15</Date>
+      <Clock>21:43:00</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Henriksen</Family>
+      <Given sequence="1">Jan Tore</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">573</PersonId>
+    <BirthDate>
+      <Date>1965-12-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-11-08</Date>
+      <Clock>16:46:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kaas</Family>
+      <Given sequence="1">Sverre Waaler</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1006</PersonId>
+    <BirthDate>
+      <Date>1985-03-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-04-01</Date>
+      <Clock>23:46:24</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Pettersen</Family>
+      <Given sequence="1">Øystein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1177</PersonId>
+    <BirthDate>
+      <Date>1980-11-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-04-04</Date>
+      <Clock>09:23:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Strandberg</Family>
+      <Given sequence="1">Trond</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1215</PersonId>
+    <BirthDate>
+      <Date>1985-04-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-27</Date>
+      <Clock>13:49:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bjøringsøy</Family>
+      <Given sequence="1">Simen A</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1367</PersonId>
+    <BirthDate>
+      <Date>1986-01-31</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-30</Date>
+      <Clock>11:00:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Øksenholt</Family>
+      <Given sequence="1">Dagfinn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1817</PersonId>
+    <BirthDate>
+      <Date>1954-03-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-10-25</Date>
+      <Clock>21:50:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Høydal</Family>
+      <Given sequence="1">Svein Helge</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1847</PersonId>
+    <BirthDate>
+      <Date>1964-08-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-09-10</Date>
+      <Clock>01:50:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Michelsen</Family>
+      <Given sequence="1">Johan</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1895</PersonId>
+    <BirthDate>
+      <Date>1974-03-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-04-25</Date>
+      <Clock>21:25:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bakken</Family>
+      <Given sequence="1">Jon Iver</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2040</PersonId>
+    <BirthDate>
+      <Date>1966-01-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-11</Date>
+      <Clock>06:57:02</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Dengerud</Family>
+      <Given sequence="1">Terje</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2041</PersonId>
+    <BirthDate>
+      <Date>1960-10-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-17</Date>
+      <Clock>23:04:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Høydal</Family>
+      <Given sequence="1">Eivind</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2049</PersonId>
+    <BirthDate>
+      <Date>1995-08-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-11</Date>
+      <Clock>16:53:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Unger</Family>
+      <Given sequence="1">Lars-Christian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2064</PersonId>
+    <BirthDate>
+      <Date>1985-04-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>07:33:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jensen</Family>
+      <Given sequence="1">Einar</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2065</PersonId>
+    <BirthDate>
+      <Date>1956-01-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-16</Date>
+      <Clock>13:01:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ahlsand</Family>
+      <Given sequence="1">Gry</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2066</PersonId>
+    <BirthDate>
+      <Date>1966-07-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-01</Date>
+      <Clock>18:34:23</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Vik</Family>
+      <Given sequence="1">Gunnar Engen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2073</PersonId>
+    <BirthDate>
+      <Date>1969-05-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-14</Date>
+      <Clock>20:12:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Ludvigsen</Family>
+      <Given sequence="1">Jan Tore</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2074</PersonId>
+    <BirthDate>
+      <Date>1973-03-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-10</Date>
+      <Clock>13:46:19</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lea</Family>
+      <Given sequence="1">Tor</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2076</PersonId>
+    <BirthDate>
+      <Date>1947-08-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-04-29</Date>
+      <Clock>13:48:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Mathisen</Family>
+      <Given sequence="1">Terje</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2077</PersonId>
+    <BirthDate>
+      <Date>1957-07-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2013-02-08</Date>
+      <Clock>17:34:35</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Breistein Svarstad</Family>
+      <Given sequence="1">Ingvild</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2078</PersonId>
+    <BirthDate>
+      <Date>1993-04-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-04-29</Date>
+      <Clock>15:12:00</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Erichsen</Family>
+      <Given sequence="1">Andreas</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2079</PersonId>
+    <BirthDate>
+      <Date>1959-01-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-12</Date>
+      <Clock>21:00:28</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Langaas</Family>
+      <Given sequence="1">Gaute</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2080</PersonId>
+    <BirthDate>
+      <Date>1963-02-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-05-12</Date>
+      <Clock>09:35:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Langaas</Family>
+      <Given sequence="1">Anders</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2081</PersonId>
+    <BirthDate>
+      <Date>1998-09-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-12</Date>
+      <Clock>17:35:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Heir</Family>
+      <Given sequence="1">Tore</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2091</PersonId>
+    <BirthDate>
+      <Date>1998-12-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-25</Date>
+      <Clock>13:41:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Jonsson</Family>
+      <Given sequence="1">Maria</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2112</PersonId>
+    <BirthDate>
+      <Date>1966-04-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>22:26:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jonsson</Family>
+      <Given sequence="1">Sören</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2113</PersonId>
+    <BirthDate>
+      <Date>1957-07-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>22:26:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jonsson</Family>
+      <Given sequence="1">Elias</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2114</PersonId>
+    <BirthDate>
+      <Date>1999-03-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-16</Date>
+      <Clock>22:32:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jonsson</Family>
+      <Given sequence="1">Isak</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2115</PersonId>
+    <BirthDate>
+      <Date>2001-08-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>10:01:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Madslien</Family>
+      <Given sequence="1">Kari</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2118</PersonId>
+    <BirthDate>
+      <Date>1966-05-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-08</Date>
+      <Clock>19:56:08</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bakken</Family>
+      <Given sequence="1">Jonas Madslien</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2119</PersonId>
+    <BirthDate>
+      <Date>1995-07-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-06</Date>
+      <Clock>16:30:10</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bakken</Family>
+      <Given sequence="1">Stine Madslien</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2120</PersonId>
+    <BirthDate>
+      <Date>1997-07-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-20</Date>
+      <Clock>12:17:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bakken</Family>
+      <Given sequence="1">Marte Madslien</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2121</PersonId>
+    <BirthDate>
+      <Date>2002-02-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-20</Date>
+      <Clock>12:18:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Skei</Family>
+      <Given sequence="1">Emil Morgenlie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2122</PersonId>
+    <BirthDate>
+      <Date>1998-11-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-05</Date>
+      <Clock>09:21:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hallén</Family>
+      <Given sequence="1">Mette</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2123</PersonId>
+    <BirthDate>
+      <Date>1957-12-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-21</Date>
+      <Clock>15:05:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hallén</Family>
+      <Given sequence="1">Anine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2125</PersonId>
+    <BirthDate>
+      <Date>1998-02-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>10:52:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hallén</Family>
+      <Given sequence="1">Jostein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2127</PersonId>
+    <BirthDate>
+      <Date>1958-01-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>10:53:26</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Näsholm</Family>
+      <Given sequence="1">Peter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2128</PersonId>
+    <BirthDate>
+      <Date>1975-11-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-26</Date>
+      <Clock>21:08:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bjergaard</Family>
+      <Given sequence="1">Anne Marit</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2132</PersonId>
+    <BirthDate>
+      <Date>1965-12-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-08</Date>
+      <Clock>21:13:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Wiklund</Family>
+      <Given sequence="1">Elias</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2145</PersonId>
+    <BirthDate>
+      <Date>1996-05-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-01-23</Date>
+      <Clock>21:21:29</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Wiklund</Family>
+      <Given sequence="1">Ragne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2146</PersonId>
+    <BirthDate>
+      <Date>2000-05-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>19:53:00</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Wiklund</Family>
+      <Given sequence="1">Jo</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2147</PersonId>
+    <BirthDate>
+      <Date>1964-08-31</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-12</Date>
+      <Clock>23:20:30</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Wiklund</Family>
+      <Given sequence="1">Berit Sofie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2148</PersonId>
+    <BirthDate>
+      <Date>1971-02-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>19:58:23</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Moen</Family>
+      <Given sequence="1">Siv Johanne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2150</PersonId>
+    <BirthDate>
+      <Date>1966-08-30</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-16</Date>
+      <Clock>21:18:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Vogelsang</Family>
+      <Given sequence="1">Christian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2151</PersonId>
+    <BirthDate>
+      <Date>1968-01-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-08-18</Date>
+      <Clock>11:56:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Fismen</Family>
+      <Given sequence="1">Morten</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2152</PersonId>
+    <BirthDate>
+      <Date>1974-05-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-01</Date>
+      <Clock>22:15:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Krüger</Family>
+      <Given sequence="1">Espen Hegstad</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2169</PersonId>
+    <BirthDate>
+      <Date>1999-04-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>21:35:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stene</Family>
+      <Given sequence="1">Per Øyvind</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2187</PersonId>
+    <BirthDate>
+      <Date>1974-08-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-14</Date>
+      <Clock>20:02:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Skårholen</Family>
+      <Given sequence="1">Even</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2200</PersonId>
+    <BirthDate>
+      <Date>1989-03-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-10</Date>
+      <Clock>14:38:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Krüger</Family>
+      <Given sequence="1">Solveig Hegstad</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2202</PersonId>
+    <BirthDate>
+      <Date>1995-10-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-07-05</Date>
+      <Clock>00:08:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Turter</Family>
+      <Given sequence="1">Ellen Marie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2203</PersonId>
+    <BirthDate>
+      <Date>1957-10-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>11:15:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Krüger</Family>
+      <Given sequence="1">Lars</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2204</PersonId>
+    <BirthDate>
+      <Date>1965-06-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>10:10:44</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Glesnes</Family>
+      <Given sequence="1">Gjermund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2206</PersonId>
+    <BirthDate>
+      <Date>1976-08-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-01-08</Date>
+      <Clock>18:00:42</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jensen</Family>
+      <Given sequence="1">Johan T.</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2223</PersonId>
+    <BirthDate>
+      <Date>1953-09-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>15:25:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Pedersen</Family>
+      <Given sequence="1">Børge</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2226</PersonId>
+    <BirthDate>
+      <Date>1964-02-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-27</Date>
+      <Clock>17:40:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Korvald</Family>
+      <Given sequence="1">Birgit</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2244</PersonId>
+    <BirthDate>
+      <Date>1951-06-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>20:18:10</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hetland</Family>
+      <Given sequence="1">Jens</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2251</PersonId>
+    <BirthDate>
+      <Date>1961-04-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-20</Date>
+      <Clock>13:00:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Weidemann</Family>
+      <Given sequence="1">Jørgen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2279</PersonId>
+    <BirthDate>
+      <Date>1996-10-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2013-03-12</Date>
+      <Clock>21:10:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lunøe</Family>
+      <Given sequence="1">Einar</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2285</PersonId>
+    <BirthDate>
+      <Date>1965-11-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-09</Date>
+      <Clock>17:41:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Liland</Family>
+      <Given sequence="1">Lukas</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2291</PersonId>
+    <BirthDate>
+      <Date>1999-05-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>22:25:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Liland</Family>
+      <Given sequence="1">Marie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2292</PersonId>
+    <BirthDate>
+      <Date>2001-03-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-04</Date>
+      <Clock>12:47:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Røstadsand</Family>
+      <Given sequence="1">Synne Eikeland</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2293</PersonId>
+    <BirthDate>
+      <Date>1999-10-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>22:25:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Smeby</Family>
+      <Given sequence="1">Henriette</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2294</PersonId>
+    <BirthDate>
+      <Date>1999-06-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-18</Date>
+      <Clock>09:00:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stenberg-Nilsen</Family>
+      <Given sequence="1">Peder</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2295</PersonId>
+    <BirthDate>
+      <Date>1999-08-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>22:25:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lunøe</Family>
+      <Given sequence="1">Sam</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2303</PersonId>
+    <BirthDate>
+      <Date>1998-04-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-23</Date>
+      <Clock>21:27:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kolstad</Family>
+      <Given sequence="1">Helge</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2310</PersonId>
+    <BirthDate>
+      <Date>1971-03-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-07-24</Date>
+      <Clock>08:07:21</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Inngjerdingen</Family>
+      <Given sequence="1">Marit</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2311</PersonId>
+    <BirthDate>
+      <Date>1972-10-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-02</Date>
+      <Clock>23:13:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eid</Family>
+      <Given sequence="1">Anne Berit</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2314</PersonId>
+    <BirthDate>
+      <Date>1957-06-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-19</Date>
+      <Clock>13:02:28</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Tveterås</Family>
+      <Given sequence="1">Susanne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2343</PersonId>
+    <BirthDate>
+      <Date>1991-02-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-03</Date>
+      <Clock>15:10:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ahlsand</Family>
+      <Given sequence="1">Anine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2363</PersonId>
+    <BirthDate>
+      <Date>1996-09-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-09</Date>
+      <Clock>20:45:08</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ahlsand</Family>
+      <Given sequence="1">Ingvil</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2364</PersonId>
+    <BirthDate>
+      <Date>1999-06-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-09</Date>
+      <Clock>21:07:42</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ahlsand</Family>
+      <Given sequence="1">Selma</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2365</PersonId>
+    <BirthDate>
+      <Date>1995-03-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-03</Date>
+      <Clock>20:40:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sandvold</Family>
+      <Given sequence="1">Sverre Turter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2371</PersonId>
+    <BirthDate>
+      <Date>1992-06-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>244</OrganisationId>
+    <ModifyDate>
+      <Date>2013-03-14</Date>
+      <Clock>15:47:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Slokvik</Family>
+      <Given sequence="1">Erlend</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2395</PersonId>
+    <BirthDate>
+      <Date>1962-02-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-25</Date>
+      <Clock>21:16:59</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Näsholm</Family>
+      <Given sequence="1">Lisa</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2416</PersonId>
+    <BirthDate>
+      <Date>1982-08-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-22</Date>
+      <Clock>15:51:19</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ulseth</Family>
+      <Given sequence="1">Anne-Lene Bakken</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2454</PersonId>
+    <BirthDate>
+      <Date>1969-06-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-08</Date>
+      <Clock>22:26:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Vik</Family>
+      <Given sequence="1">Alix Young</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2457</PersonId>
+    <BirthDate>
+      <Date>1965-04-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="36"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>16:09:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Reinseth</Family>
+      <Given sequence="1">Bjørn Erik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2471</PersonId>
+    <BirthDate>
+      <Date>1965-02-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-22</Date>
+      <Clock>21:06:44</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nielsen</Family>
+      <Given sequence="1">Simen Eid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2508</PersonId>
+    <BirthDate>
+      <Date>1994-04-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-05-11</Date>
+      <Clock>18:51:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Dimitrova</Family>
+      <Given sequence="1">Natalia</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2574</PersonId>
+    <BirthDate>
+      <Date>1980-12-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-05</Date>
+      <Clock>22:56:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tandberg</Family>
+      <Given sequence="1">Øystein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2583</PersonId>
+    <BirthDate>
+      <Date>1962-02-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-20</Date>
+      <Clock>08:14:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Haflan</Family>
+      <Given sequence="1">Anne-Karine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2584</PersonId>
+    <BirthDate>
+      <Date>1962-07-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-06</Date>
+      <Clock>08:23:15</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tandberg</Family>
+      <Given sequence="1">Vebjørn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2585</PersonId>
+    <BirthDate>
+      <Date>1996-10-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-06</Date>
+      <Clock>08:30:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tandberg</Family>
+      <Given sequence="1">Jostein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2586</PersonId>
+    <BirthDate>
+      <Date>1998-02-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-19</Date>
+      <Clock>13:14:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Aamodt</Family>
+      <Given sequence="1">Erlend</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2594</PersonId>
+    <BirthDate>
+      <Date>1954-11-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-06</Date>
+      <Clock>10:39:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Resell</Family>
+      <Given sequence="1">Anders Aamodt</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2595</PersonId>
+    <BirthDate>
+      <Date>1995-03-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>09:56:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Resell</Family>
+      <Given sequence="1">Brynhild</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2596</PersonId>
+    <BirthDate>
+      <Date>1962-06-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-06</Date>
+      <Clock>10:48:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Resell</Family>
+      <Given sequence="1">Åsmund Aamodt</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2597</PersonId>
+    <BirthDate>
+      <Date>1997-03-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-06</Date>
+      <Clock>10:48:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Scheele</Family>
+      <Given sequence="1">Oda</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2605</PersonId>
+    <BirthDate>
+      <Date>2002-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-06</Date>
+      <Clock>14:49:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Clausen-Bekkelien</Family>
+      <Given sequence="1">Gjermund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2607</PersonId>
+    <BirthDate>
+      <Date>1998-04-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-31</Date>
+      <Clock>23:20:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Halden</Family>
+      <Given sequence="1">Monica Tørnqvist</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2619</PersonId>
+    <BirthDate>
+      <Date>1968-04-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-06</Date>
+      <Clock>22:49:34</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rundberget</Family>
+      <Given sequence="1">Egil</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2650</PersonId>
+    <BirthDate>
+      <Date>1958-11-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2013-03-18</Date>
+      <Clock>21:00:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rundberget</Family>
+      <Given sequence="1">Vemund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2651</PersonId>
+    <BirthDate>
+      <Date>1998-10-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-07</Date>
+      <Clock>11:29:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bjergaard</Family>
+      <Given sequence="1">Karen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2672</PersonId>
+    <BirthDate>
+      <Date>1996-09-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-10</Date>
+      <Clock>15:51:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Haugberg</Family>
+      <Given sequence="1">Simen Kjær</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2716</PersonId>
+    <BirthDate>
+      <Date>1977-05-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-02-12</Date>
+      <Clock>18:13:38</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Thorsen</Family>
+      <Given sequence="1">Heidi Kjær</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2717</PersonId>
+    <BirthDate>
+      <Date>1983-04-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-22</Date>
+      <Clock>23:28:34</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lægran</Family>
+      <Given sequence="1">Snorre</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2719</PersonId>
+    <BirthDate>
+      <Date>1966-02-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-22</Date>
+      <Clock>19:40:21</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lægran</Family>
+      <Given sequence="1">Johanne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2720</PersonId>
+    <BirthDate>
+      <Date>1997-06-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-02</Date>
+      <Clock>15:34:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lægran</Family>
+      <Given sequence="1">Oda</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2721</PersonId>
+    <BirthDate>
+      <Date>1997-06-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-02</Date>
+      <Clock>15:34:23</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Myhr</Family>
+      <Given sequence="1">Anne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2722</PersonId>
+    <BirthDate>
+      <Date>1966-04-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-22</Date>
+      <Clock>23:00:20</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ulseth</Family>
+      <Given sequence="1">Frida Bakken</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2763</PersonId>
+    <BirthDate>
+      <Date>2000-05-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-08</Date>
+      <Clock>22:39:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Ulseth</Family>
+      <Given sequence="1">Kasper Bakken</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2764</PersonId>
+    <BirthDate>
+      <Date>2003-07-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-08</Date>
+      <Clock>22:39:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Ulseth</Family>
+      <Given sequence="1">Per Ola</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2765</PersonId>
+    <BirthDate>
+      <Date>1966-06-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-30</Date>
+      <Clock>07:40:08</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bjergaard</Family>
+      <Given sequence="1">Anders</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2787</PersonId>
+    <BirthDate>
+      <Date>1993-07-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>12:11:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Dyrstad</Family>
+      <Given sequence="1">Sigurd</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2790</PersonId>
+    <BirthDate>
+      <Date>1999-06-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>13:38:23</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ollestad</Family>
+      <Given sequence="1">Borghild</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2791</PersonId>
+    <BirthDate>
+      <Date>1962-11-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-30</Date>
+      <Clock>22:28:06</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Strand</Family>
+      <Given sequence="1">Øystein Rønning</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2793</PersonId>
+    <BirthDate>
+      <Date>1999-03-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>14:46:30</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Norling</Family>
+      <Given sequence="1">Vilde Frydenlund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2794</PersonId>
+    <BirthDate>
+      <Date>1999-12-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-28</Date>
+      <Clock>21:08:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Birkeland</Family>
+      <Given sequence="1">Hanne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2795</PersonId>
+    <BirthDate>
+      <Date>1999-06-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>14:48:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bjergaard</Family>
+      <Given sequence="1">Stig</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2810</PersonId>
+    <BirthDate>
+      <Date>1966-07-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="208"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>20:58:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Oledal</Family>
+      <Given sequence="1">Sigrid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2813</PersonId>
+    <BirthDate>
+      <Date>1999-02-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>21:12:21</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Smeby</Family>
+      <Given sequence="1">Ivar Hegbom</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2818</PersonId>
+    <BirthDate>
+      <Date>1966-03-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-19</Date>
+      <Clock>07:55:35</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Frøyd</Family>
+      <Given sequence="1">Jørgen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2821</PersonId>
+    <BirthDate>
+      <Date>1971-07-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>198</OrganisationId>
+    <ModifyDate>
+      <Date>2012-12-27</Date>
+      <Clock>20:46:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eikeland</Family>
+      <Given sequence="1">Inger Johanne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2831</PersonId>
+    <BirthDate>
+      <Date>1961-02-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-17</Date>
+      <Clock>20:52:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tonjer</Family>
+      <Given sequence="1">Ragnar</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2857</PersonId>
+    <BirthDate>
+      <Date>1983-12-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-11</Date>
+      <Clock>17:09:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hovi</Family>
+      <Given sequence="1">Inger Beate</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2858</PersonId>
+    <BirthDate>
+      <Date>1966-02-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-09</Date>
+      <Clock>22:55:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Norling</Family>
+      <Given sequence="1">Anders</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2870</PersonId>
+    <BirthDate>
+      <Date>1971-07-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-08-21</Date>
+      <Clock>22:06:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Marston</Family>
+      <Given sequence="1">Neil</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2884</PersonId>
+    <BirthDate>
+      <Date>1972-02-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="826"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-10</Date>
+      <Clock>13:19:34</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Øvstedal</Family>
+      <Given sequence="1">Jarl</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2918</PersonId>
+    <BirthDate>
+      <Date>1964-07-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-03</Date>
+      <Clock>00:05:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Madslien</Family>
+      <Given sequence="1">Anne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2930</PersonId>
+    <BirthDate>
+      <Date>1966-05-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>10:51:19</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Madslien</Family>
+      <Given sequence="1">Aksel</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2931</PersonId>
+    <BirthDate>
+      <Date>1996-01-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>10:49:59</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Madslien</Family>
+      <Given sequence="1">Ingrid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2932</PersonId>
+    <BirthDate>
+      <Date>2000-08-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>10:52:21</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Haugen</Family>
+      <Given sequence="1">Ole Petter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2933</PersonId>
+    <BirthDate>
+      <Date>1965-01-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>10:53:15</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Øvstedal</Family>
+      <Given sequence="1">Håkon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2946</PersonId>
+    <BirthDate>
+      <Date>1999-06-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>12:43:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Øvstedal</Family>
+      <Given sequence="1">Eirik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2947</PersonId>
+    <BirthDate>
+      <Date>2002-04-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>12:43:35</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lie-Thoresen</Family>
+      <Given sequence="1">Andreas</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2948</PersonId>
+    <BirthDate>
+      <Date>1999-02-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-11</Date>
+      <Clock>12:44:28</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Holte</Family>
+      <Given sequence="1">Idunn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2995</PersonId>
+    <BirthDate>
+      <Date>1999-06-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-12</Date>
+      <Clock>10:14:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Wulfsberg</Family>
+      <Given sequence="1">Ada</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">2997</PersonId>
+    <BirthDate>
+      <Date>2001-06-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-12</Date>
+      <Clock>10:15:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Haflan</Family>
+      <Given sequence="1">Tord</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3027</PersonId>
+    <BirthDate>
+      <Date>1995-02-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-11</Date>
+      <Clock>23:26:06</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stiansen</Family>
+      <Given sequence="1">Peer</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3073</PersonId>
+    <BirthDate>
+      <Date>1960-07-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-19</Date>
+      <Clock>13:35:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Dengerud</Family>
+      <Given sequence="1">Erik Olsvik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3076</PersonId>
+    <BirthDate>
+      <Date>1995-06-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-13</Date>
+      <Clock>15:53:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Dengerud</Family>
+      <Given sequence="1">Karianne Olsvik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3077</PersonId>
+    <BirthDate>
+      <Date>2000-06-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-13</Date>
+      <Clock>15:54:30</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lähdekorpi</Family>
+      <Given sequence="1">Emma</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3079</PersonId>
+    <BirthDate>
+      <Date>1985-11-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-14</Date>
+      <Clock>01:21:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Stene</Family>
+      <Given sequence="1">Dana B.</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3126</PersonId>
+    <BirthDate>
+      <Date>1979-07-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="203"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-09</Date>
+      <Clock>22:10:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Fjellang</Family>
+      <Given sequence="1">Georg Balke</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3136</PersonId>
+    <BirthDate>
+      <Date>1997-12-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-20</Date>
+      <Clock>11:11:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bergan</Family>
+      <Given sequence="1">Nils</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3147</PersonId>
+    <BirthDate>
+      <Date>1966-04-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-18</Date>
+      <Clock>13:21:54</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Conradi</Family>
+      <Given sequence="1">Hilde Slørdahl</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3163</PersonId>
+    <BirthDate>
+      <Date>1976-02-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-13</Date>
+      <Clock>21:12:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Halden</Family>
+      <Given sequence="1">Gjermund Tørnqvist</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3164</PersonId>
+    <BirthDate>
+      <Date>1998-10-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-25</Date>
+      <Clock>22:45:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Halden</Family>
+      <Given sequence="1">Halvor Tørnqvist</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3165</PersonId>
+    <BirthDate>
+      <Date>2001-09-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-21</Date>
+      <Clock>20:05:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Halden</Family>
+      <Given sequence="1">Vegard</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3166</PersonId>
+    <BirthDate>
+      <Date>1967-06-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-13</Date>
+      <Clock>15:37:03</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sand-Larsen</Family>
+      <Given sequence="1">Halvard Emil</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3167</PersonId>
+    <BirthDate>
+      <Date>2001-05-30</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-15</Date>
+      <Clock>19:25:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sand-Larsen</Family>
+      <Given sequence="1">Åsmund Olai</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3168</PersonId>
+    <BirthDate>
+      <Date>2002-10-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-15</Date>
+      <Clock>19:27:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Skaare</Family>
+      <Given sequence="1">Nikolai Korvald</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3170</PersonId>
+    <BirthDate>
+      <Date>1993-11-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-15</Date>
+      <Clock>19:41:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Aarrestad</Family>
+      <Given sequence="1">Anniken</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3249</PersonId>
+    <BirthDate>
+      <Date>1996-04-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-17</Date>
+      <Clock>23:03:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Aarrestad</Family>
+      <Given sequence="1">Sondre</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3250</PersonId>
+    <BirthDate>
+      <Date>1966-07-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-17</Date>
+      <Clock>23:07:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Breivik</Family>
+      <Given sequence="1">Eirik Langedal</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3259</PersonId>
+    <BirthDate>
+      <Date>1998-08-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-02</Date>
+      <Clock>23:15:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lund</Family>
+      <Given sequence="1">Eli Ane</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3268</PersonId>
+    <BirthDate>
+      <Date>1963-07-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-15</Date>
+      <Clock>23:02:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nordsletten</Family>
+      <Given sequence="1">Even</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3323</PersonId>
+    <BirthDate>
+      <Date>1995-06-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-16</Date>
+      <Clock>17:02:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kråkenes</Family>
+      <Given sequence="1">Halvor</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3392</PersonId>
+    <BirthDate>
+      <Date>1962-08-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-17</Date>
+      <Clock>15:47:44</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Furuheim Kråkenes</Family>
+      <Given sequence="1">Synne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3394</PersonId>
+    <BirthDate>
+      <Date>1999-11-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-17</Date>
+      <Clock>16:13:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rønning</Family>
+      <Given sequence="1">Geir O.</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3402</PersonId>
+    <BirthDate>
+      <Date>1960-01-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-17</Date>
+      <Clock>18:06:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Smeby</Family>
+      <Given sequence="1">Alexander</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3428</PersonId>
+    <BirthDate>
+      <Date>2001-01-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-17</Date>
+      <Clock>20:58:29</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Vik</Family>
+      <Given sequence="1">Lars Young</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3552</PersonId>
+    <BirthDate>
+      <Date>2001-01-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-18</Date>
+      <Clock>18:40:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Vik</Family>
+      <Given sequence="1">Pia Young</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3553</PersonId>
+    <BirthDate>
+      <Date>2003-07-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-05-18</Date>
+      <Clock>18:33:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Frankrig</Family>
+      <Given sequence="1">Karen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3696</PersonId>
+    <BirthDate>
+      <Date>1999-03-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-21</Date>
+      <Clock>20:27:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Skurdal</Family>
+      <Given sequence="1">Aasmund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3702</PersonId>
+    <BirthDate>
+      <Date>2000-01-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:32:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Askevold</Family>
+      <Given sequence="1">Andreas</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3703</PersonId>
+    <BirthDate>
+      <Date>2000-09-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:33:19</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bergan</Family>
+      <Given sequence="1">Audun Uglenes</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3704</PersonId>
+    <BirthDate>
+      <Date>2000-01-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:33:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Evjen</Family>
+      <Given sequence="1">Christine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3705</PersonId>
+    <BirthDate>
+      <Date>2000-09-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>20:01:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Thorvik</Family>
+      <Given sequence="1">David</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3706</PersonId>
+    <BirthDate>
+      <Date>2000-04-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-21</Date>
+      <Clock>12:06:40</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Stubberud</Family>
+      <Given sequence="1">Emma</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3707</PersonId>
+    <BirthDate>
+      <Date>2000-10-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:35:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Schønning</Family>
+      <Given sequence="1">Hedda Hatling</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3708</PersonId>
+    <BirthDate>
+      <Date>2000-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:37:38</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Pedersen</Family>
+      <Given sequence="1">Hedvig</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3709</PersonId>
+    <BirthDate>
+      <Date>2000-05-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:38:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sturød</Family>
+      <Given sequence="1">Håkon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3710</PersonId>
+    <BirthDate>
+      <Date>2000-05-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:38:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Johansen</Family>
+      <Given sequence="1">Iver Vang</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3711</PersonId>
+    <BirthDate>
+      <Date>2000-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:39:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Høydal</Family>
+      <Given sequence="1">Ingvild</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3712</PersonId>
+    <BirthDate>
+      <Date>2000-06-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-20</Date>
+      <Clock>14:02:24</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Skjerven</Family>
+      <Given sequence="1">Julian Salole</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3714</PersonId>
+    <BirthDate>
+      <Date>2000-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:41:24</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Røraas</Family>
+      <Given sequence="1">Karin Gjørv</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3715</PersonId>
+    <BirthDate>
+      <Date>2000-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:42:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Morken</Family>
+      <Given sequence="1">Maria Norheim</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3717</PersonId>
+    <BirthDate>
+      <Date>2000-11-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-07</Date>
+      <Clock>08:33:52</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Ihlen</Family>
+      <Given sequence="1">Nils august</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3719</PersonId>
+    <BirthDate>
+      <Date>2000-08-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-20</Date>
+      <Clock>09:07:52</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Espedal</Family>
+      <Given sequence="1">Thea Christina</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3721</PersonId>
+    <BirthDate>
+      <Date>2000-08-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:46:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lømo</Family>
+      <Given sequence="1">Tobias</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3722</PersonId>
+    <BirthDate>
+      <Date>2000-05-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-10</Date>
+      <Clock>21:52:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Espe</Family>
+      <Given sequence="1">Tord Johan</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3723</PersonId>
+    <BirthDate>
+      <Date>2000-05-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-24</Date>
+      <Clock>22:01:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Vickery</Family>
+      <Given sequence="1">William Hjelme</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3725</PersonId>
+    <BirthDate>
+      <Date>2000-07-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:48:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Øverli</Family>
+      <Given sequence="1">Zakarias Nikolai Meyer</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3726</PersonId>
+    <BirthDate>
+      <Date>2000-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:48:54</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Strøm</Family>
+      <Given sequence="1">Åsa Rannekleiv</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3727</PersonId>
+    <BirthDate>
+      <Date>2000-01-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:49:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bergan</Family>
+      <Given sequence="1">Åse</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3729</PersonId>
+    <BirthDate>
+      <Date>1998-04-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:50:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bergan</Family>
+      <Given sequence="1">Gaute</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3730</PersonId>
+    <BirthDate>
+      <Date>2003-09-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:51:23</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Skurdal</Family>
+      <Given sequence="1">Frida</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3731</PersonId>
+    <BirthDate>
+      <Date>2003-01-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-19</Date>
+      <Clock>16:51:56</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sørensen</Family>
+      <Given sequence="1">Øystein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3776</PersonId>
+    <BirthDate>
+      <Date>1985-02-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-17</Date>
+      <Clock>21:49:26</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eggen</Family>
+      <Given sequence="1">Elisabeth holmboe</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3798</PersonId>
+    <BirthDate>
+      <Date>1974-09-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-20</Date>
+      <Clock>11:08:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eggen</Family>
+      <Given sequence="1">Tiril elisabeth</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3799</PersonId>
+    <BirthDate>
+      <Date>2003-02-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-21</Date>
+      <Clock>22:29:08</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Eggen</Family>
+      <Given sequence="1">Lars Eirik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3800</PersonId>
+    <BirthDate>
+      <Date>1972-02-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-20</Date>
+      <Clock>11:15:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Wulfsberg</Family>
+      <Given sequence="1">Fredrik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3896</PersonId>
+    <BirthDate>
+      <Date>1964-02-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>150</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-30</Date>
+      <Clock>08:57:06</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sturød</Family>
+      <Given sequence="1">Are</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3955</PersonId>
+    <BirthDate>
+      <Date>1968-09-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-01-10</Date>
+      <Clock>21:09:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sturød</Family>
+      <Given sequence="1">Anne Borgen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3970</PersonId>
+    <BirthDate>
+      <Date>1968-07-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-22</Date>
+      <Clock>21:54:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sturød</Family>
+      <Given sequence="1">Henrik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">3971</PersonId>
+    <BirthDate>
+      <Date>2002-04-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-22</Date>
+      <Clock>21:54:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lømo</Family>
+      <Given sequence="1">Camilla Meinich</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4015</PersonId>
+    <BirthDate>
+      <Date>1964-10-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>09:40:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Skurdal</Family>
+      <Given sequence="1">Jon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4034</PersonId>
+    <BirthDate>
+      <Date>1968-01-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>16:48:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Thiis</Family>
+      <Given sequence="1">Tuva</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4044</PersonId>
+    <BirthDate>
+      <Date>2000-03-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>19:38:02</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Vågen</Family>
+      <Given sequence="1">Magnus Rokne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4046</PersonId>
+    <BirthDate>
+      <Date>1996-08-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-23</Date>
+      <Clock>22:49:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Breivik</Family>
+      <Given sequence="1">Yngvild Langedal</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4052</PersonId>
+    <BirthDate>
+      <Date>2002-02-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>20:23:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Langedal</Family>
+      <Given sequence="1">Sjur</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4053</PersonId>
+    <BirthDate>
+      <Date>1964-05-12</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>20:25:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Breivik</Family>
+      <Given sequence="1">Anne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4055</PersonId>
+    <BirthDate>
+      <Date>1963-06-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-02</Date>
+      <Clock>22:12:00</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Breivik</Family>
+      <Given sequence="1">Sigmund Langedal</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4058</PersonId>
+    <BirthDate>
+      <Date>1995-09-30</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>20:30:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stubberud</Family>
+      <Given sequence="1">Helge</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4084</PersonId>
+    <BirthDate>
+      <Date>1960-02-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-18</Date>
+      <Clock>15:36:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sandberg</Family>
+      <Given sequence="1">Per</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4086</PersonId>
+    <BirthDate>
+      <Date>1960-01-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-26</Date>
+      <Clock>22:33:42</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sandberg</Family>
+      <Given sequence="1">Maiken</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4090</PersonId>
+    <BirthDate>
+      <Date>1998-04-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-22</Date>
+      <Clock>23:20:52</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Røstadsand</Family>
+      <Given sequence="1">Per-Arne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4106</PersonId>
+    <BirthDate>
+      <Date>1961-09-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-23</Date>
+      <Clock>22:37:02</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Tandberg</Family>
+      <Given sequence="1">Ida Kristine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4129</PersonId>
+    <BirthDate>
+      <Date>2001-01-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-24</Date>
+      <Clock>08:18:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Wulfsberg</Family>
+      <Given sequence="1">Jørgen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4216</PersonId>
+    <BirthDate>
+      <Date>1999-01-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-02-18</Date>
+      <Clock>13:55:02</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Pettersen</Family>
+      <Given sequence="1">Sindre Rønning</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4222</PersonId>
+    <BirthDate>
+      <Date>2001-04-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-25</Date>
+      <Clock>14:58:31</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eriksen</Family>
+      <Given sequence="1">Anna Trindade</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4240</PersonId>
+    <BirthDate>
+      <Date>2001-10-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-25</Date>
+      <Clock>21:48:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Reinseth</Family>
+      <Given sequence="1">Johannes Finne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4265</PersonId>
+    <BirthDate>
+      <Date>1999-05-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-26</Date>
+      <Clock>22:47:29</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Reinseth</Family>
+      <Given sequence="1">Kristine Finne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4266</PersonId>
+    <BirthDate>
+      <Date>2003-04-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-26</Date>
+      <Clock>22:48:00</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bakke</Family>
+      <Given sequence="1">Ragnhild Finne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4267</PersonId>
+    <BirthDate>
+      <Date>1967-10-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-26</Date>
+      <Clock>22:48:34</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Heir</Family>
+      <Given sequence="1">Eirik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4282</PersonId>
+    <BirthDate>
+      <Date>2001-05-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-25</Date>
+      <Clock>13:41:41</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lindseth</Family>
+      <Given sequence="1">Gard</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4297</PersonId>
+    <BirthDate>
+      <Date>1974-01-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2013-03-11</Date>
+      <Clock>12:26:59</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Heir</Family>
+      <Given sequence="1">Kjersti</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4304</PersonId>
+    <BirthDate>
+      <Date>1996-11-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-25</Date>
+      <Clock>13:41:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Mo</Family>
+      <Given sequence="1">Maiken Skirstad</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4322</PersonId>
+    <BirthDate>
+      <Date>1974-06-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-29</Date>
+      <Clock>08:48:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hjelseth</Family>
+      <Given sequence="1">Maja Mo</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4323</PersonId>
+    <BirthDate>
+      <Date>2005-05-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-29</Date>
+      <Clock>08:46:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hjelseth</Family>
+      <Given sequence="1">Teodor Mo</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4324</PersonId>
+    <BirthDate>
+      <Date>2003-08-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-08-24</Date>
+      <Clock>14:05:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Saunes</Family>
+      <Given sequence="1">Halvor</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4336</PersonId>
+    <BirthDate>
+      <Date>1985-05-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-11-07</Date>
+      <Clock>14:21:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kaarby</Family>
+      <Given sequence="1">Petter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4343</PersonId>
+    <BirthDate>
+      <Date>1985-07-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-24</Date>
+      <Clock>20:14:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lunøe</Family>
+      <Given sequence="1">Ea</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4420</PersonId>
+    <BirthDate>
+      <Date>2002-03-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-30</Date>
+      <Clock>23:19:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lunøe</Family>
+      <Given sequence="1">Kathrine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4422</PersonId>
+    <BirthDate>
+      <Date>1967-10-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-30</Date>
+      <Clock>23:21:20</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lööf</Family>
+      <Given sequence="1">Anne-Marie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4432</PersonId>
+    <BirthDate>
+      <Date>1969-12-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-31</Date>
+      <Clock>12:22:47</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Markset</Family>
+      <Given sequence="1">Anne-Tine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4467</PersonId>
+    <BirthDate>
+      <Date>1992-08-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-31</Date>
+      <Clock>22:49:54</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Moeng Jensen</Family>
+      <Given sequence="1">Trym</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4486</PersonId>
+    <BirthDate>
+      <Date>1998-05-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-02</Date>
+      <Clock>21:05:19</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lømo</Family>
+      <Given sequence="1">Morten</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4487</PersonId>
+    <BirthDate>
+      <Date>1963-10-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-01</Date>
+      <Clock>12:26:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Breistrand</Family>
+      <Given sequence="1">Torbjørn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4490</PersonId>
+    <BirthDate>
+      <Date>1952-04-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-23</Date>
+      <Clock>20:56:38</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Omestad</Family>
+      <Given sequence="1">Magne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4521</PersonId>
+    <BirthDate>
+      <Date>1971-03-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>20:11:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lygre</Family>
+      <Given sequence="1">Jan kristian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4530</PersonId>
+    <BirthDate>
+      <Date>1972-06-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-02</Date>
+      <Clock>23:03:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lärfars</Family>
+      <Given sequence="1">Kristina</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4534</PersonId>
+    <BirthDate>
+      <Date>1980-01-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-25</Date>
+      <Clock>21:13:09</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Turter</Family>
+      <Given sequence="1">Anne C</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4550</PersonId>
+    <BirthDate>
+      <Date>1962-01-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-04</Date>
+      <Clock>11:33:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ullevålseter</Family>
+      <Given sequence="1">Marie Eline</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4552</PersonId>
+    <BirthDate>
+      <Date>1999-10-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-04</Date>
+      <Clock>22:36:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Høydal</Family>
+      <Given sequence="1">Line Telje</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4553</PersonId>
+    <BirthDate>
+      <Date>1966-04-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>11:08:03</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Tangen</Family>
+      <Given sequence="1">Ida</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4558</PersonId>
+    <BirthDate>
+      <Date>1989-08-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-17</Date>
+      <Clock>13:50:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Selvig</Family>
+      <Given sequence="1">Siri</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4559</PersonId>
+    <BirthDate>
+      <Date>1989-04-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>16:35:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nesset</Family>
+      <Given sequence="1">Erling</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4560</PersonId>
+    <BirthDate>
+      <Date>1998-06-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>17:02:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Mans</Family>
+      <Given sequence="1">Hannah</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4568</PersonId>
+    <BirthDate>
+      <Date>2003-04-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>20:25:54</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Strand</Family>
+      <Given sequence="1">Kirsti</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4570</PersonId>
+    <BirthDate>
+      <Date>1958-08-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>20:53:10</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tonjer</Family>
+      <Given sequence="1">Markus</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4577</PersonId>
+    <BirthDate>
+      <Date>1993-02-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>21:28:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sørlie</Family>
+      <Given sequence="1">Oda</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4579</PersonId>
+    <BirthDate>
+      <Date>2003-12-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>21:57:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kaarby</Family>
+      <Given sequence="1">Jon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4580</PersonId>
+    <BirthDate>
+      <Date>1955-12-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-05</Date>
+      <Clock>21:58:10</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Koren</Family>
+      <Given sequence="1">Esten</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4588</PersonId>
+    <BirthDate>
+      <Date>1970-03-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-03</Date>
+      <Clock>12:36:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Svenn</Family>
+      <Given sequence="1">Carl Joachim</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4592</PersonId>
+    <BirthDate>
+      <Date>1986-06-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>14:44:35</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Haavengen</Family>
+      <Given sequence="1">Pål</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4593</PersonId>
+    <BirthDate>
+      <Date>1969-12-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-06</Date>
+      <Clock>18:08:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hallén</Family>
+      <Given sequence="1">Stian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4751</PersonId>
+    <BirthDate>
+      <Date>1989-02-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-13</Date>
+      <Clock>12:43:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Moe</Family>
+      <Given sequence="1">Lene Jorunn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4755</PersonId>
+    <BirthDate>
+      <Date>1982-01-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-25</Date>
+      <Clock>16:51:30</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Kaarby</Family>
+      <Given sequence="1">Karen Marie Eid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4770</PersonId>
+    <BirthDate>
+      <Date>1956-03-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-13</Date>
+      <Clock>22:12:20</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hoksrud</Family>
+      <Given sequence="1">Aasne Fenne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">4800</PersonId>
+    <BirthDate>
+      <Date>1977-01-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-05-18</Date>
+      <Clock>19:36:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hjelstuen</Family>
+      <Given sequence="1">Håkon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5000</PersonId>
+    <BirthDate>
+      <Date>1992-02-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-06-23</Date>
+      <Clock>00:10:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nielsen</Family>
+      <Given sequence="1">Lars Eid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5081</PersonId>
+    <BirthDate>
+      <Date>1987-07-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-20</Date>
+      <Clock>11:23:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sramkova</Family>
+      <Given sequence="1">Vendula</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5354</PersonId>
+    <BirthDate>
+      <Date>1984-11-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="203"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-11-21</Date>
+      <Clock>21:16:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Larsen</Family>
+      <Given sequence="1">Magnus Mellbye</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5419</PersonId>
+    <BirthDate>
+      <Date>1986-01-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-09-30</Date>
+      <Clock>20:47:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Pettersen-Dahl</Family>
+      <Given sequence="1">Andre</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5448</PersonId>
+    <BirthDate>
+      <Date>2002-04-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-04</Date>
+      <Clock>17:43:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Owren</Family>
+      <Given sequence="1">Marit</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5457</PersonId>
+    <BirthDate>
+      <Date>1984-07-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-21</Date>
+      <Clock>20:35:20</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Green</Family>
+      <Given sequence="1">Emma</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5576</PersonId>
+    <BirthDate>
+      <Date>1983-03-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-13</Date>
+      <Clock>18:49:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Schulze</Family>
+      <Given sequence="1">Dorothea</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5611</PersonId>
+    <BirthDate>
+      <Date>1982-09-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-24</Date>
+      <Clock>12:29:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jørgensen</Family>
+      <Given sequence="1">Lars Gaute</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5630</PersonId>
+    <BirthDate>
+      <Date>1990-01-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-24</Date>
+      <Clock>23:15:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Luis</Family>
+      <Given sequence="1">Cristina</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5661</PersonId>
+    <BirthDate>
+      <Date>1979-03-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="840"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-16</Date>
+      <Clock>15:10:26</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Trout</Family>
+      <Given sequence="1">Melissa</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5662</PersonId>
+    <BirthDate>
+      <Date>1978-10-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-22</Date>
+      <Clock>10:32:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Mans</Family>
+      <Given sequence="1">Maaike</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5671</PersonId>
+    <BirthDate>
+      <Date>2000-04-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-02</Date>
+      <Clock>22:46:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Systad</Family>
+      <Given sequence="1">Johanne Midttun</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5692</PersonId>
+    <BirthDate>
+      <Date>2001-05-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-10</Date>
+      <Clock>18:24:26</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Fürstenberg</Family>
+      <Given sequence="1">Theresa</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5722</PersonId>
+    <BirthDate>
+      <Date>2002-08-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="276"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-24</Date>
+      <Clock>08:40:59</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Vickery</Family>
+      <Given sequence="1">Leonard Hjelme</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5734</PersonId>
+    <BirthDate>
+      <Date>2003-10-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-28</Date>
+      <Clock>21:56:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bae</Family>
+      <Given sequence="1">Gjermund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5735</PersonId>
+    <BirthDate>
+      <Date>1998-07-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-24</Date>
+      <Clock>09:33:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Holm</Family>
+      <Given sequence="1">Are Martin</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5748</PersonId>
+    <BirthDate>
+      <Date>1965-07-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-28</Date>
+      <Clock>22:46:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Holm</Family>
+      <Given sequence="1">Severin</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5754</PersonId>
+    <BirthDate>
+      <Date>1998-12-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-28</Date>
+      <Clock>23:09:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Larsen</Family>
+      <Given sequence="1">Axel Henrik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5772</PersonId>
+    <BirthDate>
+      <Date>2001-09-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-29</Date>
+      <Clock>12:23:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Aalde</Family>
+      <Given sequence="1">Knut</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5782</PersonId>
+    <BirthDate>
+      <Date>1972-07-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-12</Date>
+      <Clock>11:12:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Aalde</Family>
+      <Given sequence="1">Axel</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5783</PersonId>
+    <BirthDate>
+      <Date>2004-10-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-29</Date>
+      <Clock>14:55:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Dyrstad</Family>
+      <Given sequence="1">Knut</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5864</PersonId>
+    <BirthDate>
+      <Date>1961-12-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-29</Date>
+      <Clock>22:54:21</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Engeness</Family>
+      <Given sequence="1">Torkel</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5868</PersonId>
+    <BirthDate>
+      <Date>1972-08-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2011-08-29</Date>
+      <Clock>23:01:52</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stubberud</Family>
+      <Given sequence="1">Elias</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5884</PersonId>
+    <BirthDate>
+      <Date>2003-02-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-18</Date>
+      <Clock>21:05:29</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lien</Family>
+      <Given sequence="1">Ingeborg Lundamo</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5889</PersonId>
+    <BirthDate>
+      <Date>2002-08-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-30</Date>
+      <Clock>09:24:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Pettersen</Family>
+      <Given sequence="1">Lina</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5918</PersonId>
+    <BirthDate>
+      <Date>2002-03-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-08-30</Date>
+      <Clock>22:05:28</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hole</Family>
+      <Given sequence="1">Victoria Skeppland</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5960</PersonId>
+    <BirthDate>
+      <Date>1999-06-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-01</Date>
+      <Clock>09:38:47</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ulvang</Family>
+      <Given sequence="1">Runa</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5972</PersonId>
+    <BirthDate>
+      <Date>2001-10-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-01</Date>
+      <Clock>18:16:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hauge</Family>
+      <Given sequence="1">Elise Wærp</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5975</PersonId>
+    <BirthDate>
+      <Date>2003-06-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-11</Date>
+      <Clock>17:58:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Kloster</Family>
+      <Given sequence="1">Alva</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5986</PersonId>
+    <BirthDate>
+      <Date>2003-10-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-08</Date>
+      <Clock>17:53:56</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Wiklund</Family>
+      <Given sequence="1">Inga Skaarer</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">5996</PersonId>
+    <BirthDate>
+      <Date>2004-01-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-01</Date>
+      <Clock>11:09:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Haavardsholm</Family>
+      <Given sequence="1">Marit</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6137</PersonId>
+    <BirthDate>
+      <Date>1966-10-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>303</OrganisationId>
+    <ModifyDate>
+      <Date>2012-11-17</Date>
+      <Clock>07:28:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Malmei</Family>
+      <Given sequence="1">Vilde</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6138</PersonId>
+    <BirthDate>
+      <Date>1997-03-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>303</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-26</Date>
+      <Clock>17:11:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Malmei</Family>
+      <Given sequence="1">Hannah</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6139</PersonId>
+    <BirthDate>
+      <Date>1998-09-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>303</OrganisationId>
+    <ModifyDate>
+      <Date>2012-09-17</Date>
+      <Clock>10:28:47</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Næss-Ulseth</Family>
+      <Given sequence="1">Eirik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6233</PersonId>
+    <BirthDate>
+      <Date>1956-10-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-16</Date>
+      <Clock>09:26:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Horvati</Family>
+      <Given sequence="1">Eszter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6314</PersonId>
+    <BirthDate>
+      <Date>1979-05-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-09-23</Date>
+      <Clock>13:29:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Scheele</Family>
+      <Given sequence="1">Else Kari</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6625</PersonId>
+    <BirthDate>
+      <Date>1971-01-31</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-10-03</Date>
+      <Clock>22:33:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Scheele</Family>
+      <Given sequence="1">Rune</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6627</PersonId>
+    <BirthDate>
+      <Date>1968-07-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-02</Date>
+      <Clock>08:34:06</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Marcussen</Family>
+      <Given sequence="1">Espen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6643</PersonId>
+    <BirthDate>
+      <Date>1968-07-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-29</Date>
+      <Clock>22:42:24</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stokseth</Family>
+      <Given sequence="1">Endre</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6714</PersonId>
+    <BirthDate>
+      <Date>1974-10-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-08</Date>
+      <Clock>19:15:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Kaarby</Family>
+      <Given sequence="1">Maren</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6718</PersonId>
+    <BirthDate>
+      <Date>1983-01-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-10-04</Date>
+      <Clock>21:11:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rodem</Family>
+      <Given sequence="1">Øystein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6728</PersonId>
+    <BirthDate>
+      <Date>1983-10-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-10-04</Date>
+      <Clock>21:13:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kristoffersen</Family>
+      <Given sequence="1">Øyvind Svare</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6730</PersonId>
+    <BirthDate>
+      <Date>1983-09-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-01</Date>
+      <Clock>09:49:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lorentzen</Family>
+      <Given sequence="1">Helle Svare</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6733</PersonId>
+    <BirthDate>
+      <Date>1984-08-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-10-04</Date>
+      <Clock>21:28:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Næss-Ulseth</Family>
+      <Given sequence="1">Selma</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6806</PersonId>
+    <BirthDate>
+      <Date>1987-06-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-10-04</Date>
+      <Clock>22:52:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bøbel</Family>
+      <Given sequence="1">Julie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">6928</PersonId>
+    <BirthDate>
+      <Date>1980-07-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>22:45:24</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Trier</Family>
+      <Given sequence="1">Øivind Thorvald Due</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7157</PersonId>
+    <BirthDate>
+      <Date>1966-05-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-23</Date>
+      <Clock>22:16:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rønning</Family>
+      <Given sequence="1">Øystein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7194</PersonId>
+    <BirthDate>
+      <Date>1953-10-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-01-10</Date>
+      <Clock>20:35:38</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bacci</Family>
+      <Given sequence="1">Federico</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7211</PersonId>
+    <BirthDate>
+      <Date>1990-02-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="380"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-28</Date>
+      <Clock>19:48:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kristoffersen</Family>
+      <Given sequence="1">Dag</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7244</PersonId>
+    <BirthDate>
+      <Date>1984-06-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-01-28</Date>
+      <Clock>00:02:36</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Jakobsson</Family>
+      <Given sequence="1">Malin</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7281</PersonId>
+    <BirthDate>
+      <Date>1990-05-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="752"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>21:28:35</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sanderud</Family>
+      <Given sequence="1">Jorunn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7306</PersonId>
+    <BirthDate>
+      <Date>1954-06-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-04</Date>
+      <Clock>22:26:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sandberg</Family>
+      <Given sequence="1">Synnøve Lyssand</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7343</PersonId>
+    <BirthDate>
+      <Date>1966-02-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-05</Date>
+      <Clock>10:30:51</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Frøshaug</Family>
+      <Given sequence="1">Svend Sondre</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7345</PersonId>
+    <BirthDate>
+      <Date>1992-07-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-07</Date>
+      <Clock>23:30:48</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Myhre</Family>
+      <Given sequence="1">Stein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7499</PersonId>
+    <BirthDate>
+      <Date>1954-03-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-20</Date>
+      <Clock>13:08:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Stubberud</Family>
+      <Given sequence="1">Helena</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7503</PersonId>
+    <BirthDate>
+      <Date>1962-01-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-20</Date>
+      <Clock>21:47:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Stubberud</Family>
+      <Given sequence="1">Eirik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7504</PersonId>
+    <BirthDate>
+      <Date>1995-07-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-20</Date>
+      <Clock>21:49:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nielsen</Family>
+      <Given sequence="1">Tryggve</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7509</PersonId>
+    <BirthDate>
+      <Date>1977-12-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-21</Date>
+      <Clock>12:11:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rystad</Family>
+      <Given sequence="1">Frode</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7715</PersonId>
+    <BirthDate>
+      <Date>1975-05-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-03-31</Date>
+      <Clock>22:32:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bøen</Family>
+      <Given sequence="1">Sivert Risnes</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7716</PersonId>
+    <BirthDate>
+      <Date>1998-02-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-17</Date>
+      <Clock>20:40:52</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Dähnn</Family>
+      <Given sequence="1">Michael</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7793</PersonId>
+    <BirthDate>
+      <Date>1977-10-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-03</Date>
+      <Clock>22:13:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sandvold</Family>
+      <Given sequence="1">Christine Turter</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7818</PersonId>
+    <BirthDate>
+      <Date>1990-09-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-04</Date>
+      <Clock>23:17:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nielsen</Family>
+      <Given sequence="1">Arne Eirik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7820</PersonId>
+    <BirthDate>
+      <Date>1981-01-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-05</Date>
+      <Clock>09:19:09</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Morgenlie Skei</Family>
+      <Given sequence="1">Marte</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7821</PersonId>
+    <BirthDate>
+      <Date>2000-05-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-05</Date>
+      <Clock>09:38:39</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Morgenlie Skei</Family>
+      <Given sequence="1">Magnus</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7822</PersonId>
+    <BirthDate>
+      <Date>2002-09-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-05</Date>
+      <Clock>09:40:03</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Morgenlie</Family>
+      <Given sequence="1">Inga</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7823</PersonId>
+    <BirthDate>
+      <Date>1976-05-06</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-05</Date>
+      <Clock>09:41:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Moen</Family>
+      <Given sequence="1">Ellen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">7826</PersonId>
+    <BirthDate>
+      <Date>1976-10-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>22:55:30</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Molland</Family>
+      <Given sequence="1">Ingvild Lien</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8266</PersonId>
+    <BirthDate>
+      <Date>1983-04-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>20:32:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Prytz</Family>
+      <Given sequence="1">Håvard Winge</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8320</PersonId>
+    <BirthDate>
+      <Date>2002-04-20</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-17</Date>
+      <Clock>09:57:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Fremmerlid</Family>
+      <Given sequence="1">Ingunn</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8667</PersonId>
+    <BirthDate>
+      <Date>1981-08-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-15</Date>
+      <Clock>21:58:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Øvreeide</Family>
+      <Given sequence="1">Vilde</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8689</PersonId>
+    <BirthDate>
+      <Date>1999-04-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>20:40:11</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Larsen</Family>
+      <Given sequence="1">Torgeir</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8831</PersonId>
+    <BirthDate>
+      <Date>1967-07-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>20:55:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Frankrig</Family>
+      <Given sequence="1">Ole Jakob</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8832</PersonId>
+    <BirthDate>
+      <Date>2002-07-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-18</Date>
+      <Clock>21:11:58</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Olsen</Family>
+      <Given sequence="1">Charlotte</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8880</PersonId>
+    <BirthDate>
+      <Date>1966-09-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>17:33:30</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Olsen</Family>
+      <Given sequence="1">Erik Kaland</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8881</PersonId>
+    <BirthDate>
+      <Date>2001-08-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-20</Date>
+      <Clock>13:34:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Meløysund</Family>
+      <Given sequence="1">Alexander Norum</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8901</PersonId>
+    <BirthDate>
+      <Date>1999-01-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-21</Date>
+      <Clock>14:41:17</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Trong-johansen</Family>
+      <Given sequence="1">Lea mathilde</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">8976</PersonId>
+    <BirthDate>
+      <Date>2002-09-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-23</Date>
+      <Clock>20:11:45</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Ingvaldsen</Family>
+      <Given sequence="1">Haakon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9077</PersonId>
+    <BirthDate>
+      <Date>1982-03-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-26</Date>
+      <Clock>00:27:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Olsvik</Family>
+      <Given sequence="1">Ellen Sofie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9093</PersonId>
+    <BirthDate>
+      <Date>1962-07-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-26</Date>
+      <Clock>20:36:16</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Ingierd</Family>
+      <Given sequence="1">Pål Christian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9100</PersonId>
+    <BirthDate>
+      <Date>1974-09-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-05-18</Date>
+      <Clock>19:38:49</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lunøe</Family>
+      <Given sequence="1">Espen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9109</PersonId>
+    <BirthDate>
+      <Date>1968-11-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-04-27</Date>
+      <Clock>15:24:10</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Næss-Ulseth</Family>
+      <Given sequence="1">Anders</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9131</PersonId>
+    <BirthDate>
+      <Date>2005-05-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-04-27</Date>
+      <Clock>21:29:03</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jensen</Family>
+      <Given sequence="1">Johan Toverud</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9187</PersonId>
+    <BirthDate>
+      <Date>1953-09-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-01</Date>
+      <Clock>00:04:08</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Inngjerdingen</Family>
+      <Given sequence="1">Kari Tvete</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9240</PersonId>
+    <BirthDate>
+      <Date>1974-08-17</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-02</Date>
+      <Clock>20:58:24</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Landstad</Family>
+      <Given sequence="1">Knut</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9342</PersonId>
+    <BirthDate>
+      <Date>1971-09-30</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-06</Date>
+      <Clock>22:00:21</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eggen</Family>
+      <Given sequence="1">Mari</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9363</PersonId>
+    <BirthDate>
+      <Date>2006-09-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-06</Date>
+      <Clock>21:24:31</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Kleivi</Family>
+      <Given sequence="1">Kristine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9366</PersonId>
+    <BirthDate>
+      <Date>2000-03-31</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>11:23:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Næss</Family>
+      <Given sequence="1">Sigurd</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9392</PersonId>
+    <BirthDate>
+      <Date>1982-11-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-07</Date>
+      <Clock>10:41:31</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Natås</Family>
+      <Given sequence="1">Ida</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9523</PersonId>
+    <BirthDate>
+      <Date>1977-12-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-08</Date>
+      <Clock>17:58:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Naveau</Family>
+      <Given sequence="1">Vincent</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9527</PersonId>
+    <BirthDate>
+      <Date>1984-09-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="56"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-08</Date>
+      <Clock>19:27:40</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Gisnås</Family>
+      <Given sequence="1">Hallvar</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9549</PersonId>
+    <BirthDate>
+      <Date>1981-04-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-08</Date>
+      <Clock>21:16:06</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bogstrand</Family>
+      <Given sequence="1">Bjørg</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9773</PersonId>
+    <BirthDate>
+      <Date>1982-09-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-13</Date>
+      <Clock>14:56:09</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Vågen</Family>
+      <Given sequence="1">Stine Rokne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9880</PersonId>
+    <BirthDate>
+      <Date>2001-09-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-14</Date>
+      <Clock>20:26:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Sandvold</Family>
+      <Given sequence="1">Arne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">9960</PersonId>
+    <BirthDate>
+      <Date>1960-09-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-08-16</Date>
+      <Clock>14:09:28</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Brunes</Family>
+      <Given sequence="1">Morten Taraldsten</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10010</PersonId>
+    <BirthDate>
+      <Date>1984-07-30</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-17</Date>
+      <Clock>20:38:15</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Flugsrud</Family>
+      <Given sequence="1">Astrid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10011</PersonId>
+    <BirthDate>
+      <Date>1986-01-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-17</Date>
+      <Clock>20:43:13</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Alvestad</Family>
+      <Given sequence="1">Øystein</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10067</PersonId>
+    <BirthDate>
+      <Date>1984-02-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-11</Date>
+      <Clock>22:15:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Espedal</Family>
+      <Given sequence="1">Kjetil</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10478</PersonId>
+    <BirthDate>
+      <Date>1966-08-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-24</Date>
+      <Clock>07:56:34</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Espedal</Family>
+      <Given sequence="1">Tobias Mikael</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10481</PersonId>
+    <BirthDate>
+      <Date>2002-06-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-23</Date>
+      <Clock>19:29:40</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Aarnes</Family>
+      <Given sequence="1">Annemarie B.</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10590</PersonId>
+    <BirthDate>
+      <Date>1981-03-24</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-27</Date>
+      <Clock>22:27:06</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Eilertsen</Family>
+      <Given sequence="1">Stian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10597</PersonId>
+    <BirthDate>
+      <Date>2000-05-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-05-29</Date>
+      <Clock>21:48:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Lindseth</Family>
+      <Given sequence="1">Inge</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10607</PersonId>
+    <BirthDate>
+      <Date>1975-06-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-29</Date>
+      <Clock>22:41:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Solsrud</Family>
+      <Given sequence="1">Frida</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10625</PersonId>
+    <BirthDate>
+      <Date>2003-04-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>10:08:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Bergan</Family>
+      <Given sequence="1">Solveig</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10679</PersonId>
+    <BirthDate>
+      <Date>1971-02-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2012-05-31</Date>
+      <Clock>20:55:20</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Raastad</Family>
+      <Given sequence="1">Fredrik</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10685</PersonId>
+    <BirthDate>
+      <Date>1993-12-30</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-31</Date>
+      <Clock>21:21:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jernberg</Family>
+      <Given sequence="1">Joakim Wilkens</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10687</PersonId>
+    <BirthDate>
+      <Date>2002-01-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-31</Date>
+      <Clock>21:24:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Jernberg</Family>
+      <Given sequence="1">Aurora Wilkens</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10688</PersonId>
+    <BirthDate>
+      <Date>2004-02-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-31</Date>
+      <Clock>21:28:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Moeng Jensen</Family>
+      <Given sequence="1">Birk Elias</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10691</PersonId>
+    <BirthDate>
+      <Date>2005-04-08</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-31</Date>
+      <Clock>21:44:32</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Køber</Family>
+      <Given sequence="1">Martha Nesheim</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10695</PersonId>
+    <BirthDate>
+      <Date>2002-05-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-04</Date>
+      <Clock>23:00:59</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Natvig</Family>
+      <Given sequence="1">Kristian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10705</PersonId>
+    <BirthDate>
+      <Date>2003-08-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-01</Date>
+      <Clock>13:09:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Selvig</Family>
+      <Given sequence="1">Kristin Dale</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10728</PersonId>
+    <BirthDate>
+      <Date>1962-10-31</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-02</Date>
+      <Clock>08:28:27</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Tautra Hagen</Family>
+      <Given sequence="1">Eivind</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10743</PersonId>
+    <BirthDate>
+      <Date>2003-04-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-02</Date>
+      <Clock>22:01:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Hole</Family>
+      <Given sequence="1">Anders</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10764</PersonId>
+    <BirthDate>
+      <Date>1985-07-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>19:26:44</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Najman</Family>
+      <Given sequence="1">Katarzyna Iwona</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10767</PersonId>
+    <BirthDate>
+      <Date>1982-11-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>19:46:18</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Dahl</Family>
+      <Given sequence="1">Anne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10841</PersonId>
+    <BirthDate>
+      <Date>1964-10-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>176</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>22:30:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Andresen</Family>
+      <Given sequence="1">Mathias Øivind</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10842</PersonId>
+    <BirthDate>
+      <Date>2000-07-13</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>22:33:54</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Berg</Family>
+      <Given sequence="1">Rolf Andreas</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10843</PersonId>
+    <BirthDate>
+      <Date>2003-09-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>22:34:10</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Flatemo</Family>
+      <Given sequence="1">Martin</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10850</PersonId>
+    <BirthDate>
+      <Date>2002-05-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-03</Date>
+      <Clock>23:38:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Torpe</Family>
+      <Given sequence="1">Håvard</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10863</PersonId>
+    <BirthDate>
+      <Date>1982-06-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-04</Date>
+      <Clock>16:29:02</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Eggen</Family>
+      <Given sequence="1">Monica</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10909</PersonId>
+    <BirthDate>
+      <Date>1976-05-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-04</Date>
+      <Clock>22:21:54</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Birkeland Tøndel</Family>
+      <Given sequence="1">Richard</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10932</PersonId>
+    <BirthDate>
+      <Date>2002-09-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-04</Date>
+      <Clock>23:35:25</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hjelme</Family>
+      <Given sequence="1">Inger Hilde</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">10945</PersonId>
+    <BirthDate>
+      <Date>1967-06-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-05</Date>
+      <Clock>13:49:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Haakstad</Family>
+      <Given sequence="1">Jenny</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11062</PersonId>
+    <BirthDate>
+      <Date>2001-07-03</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-08</Date>
+      <Clock>18:14:00</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Onstad</Family>
+      <Given sequence="1">William Bureid</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11206</PersonId>
+    <BirthDate>
+      <Date>2002-08-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-11</Date>
+      <Clock>09:28:57</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Mo</Family>
+      <Given sequence="1">Magnus Kristian</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11266</PersonId>
+    <BirthDate>
+      <Date>1984-07-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-11</Date>
+      <Clock>22:12:44</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lieske</Family>
+      <Given sequence="1">Nora</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11328</PersonId>
+    <BirthDate>
+      <Date>1982-09-27</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="276"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-06-19</Date>
+      <Clock>13:16:53</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Øen</Family>
+      <Given sequence="1">Anny</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11663</PersonId>
+    <BirthDate>
+      <Date>1973-11-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-06</Date>
+      <Clock>22:03:46</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Urnes</Family>
+      <Given sequence="1">Kjersti Dahlskås</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11902</PersonId>
+    <BirthDate>
+      <Date>1972-09-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-21</Date>
+      <Clock>22:57:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Arvesen</Family>
+      <Given sequence="1">Elisabeth</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">11963</PersonId>
+    <BirthDate>
+      <Date>1975-09-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-24</Date>
+      <Clock>21:52:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Hauge</Family>
+      <Given sequence="1">Hanne Wærp</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12008</PersonId>
+    <BirthDate>
+      <Date>2006-01-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-27</Date>
+      <Clock>19:19:20</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Norling</Family>
+      <Given sequence="1">Eirik Frydenlund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12053</PersonId>
+    <BirthDate>
+      <Date>2004-02-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-08-29</Date>
+      <Clock>21:45:29</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Syvertsen</Family>
+      <Given sequence="1">Erle Sofie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12139</PersonId>
+    <BirthDate>
+      <Date>2002-03-09</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-04</Date>
+      <Clock>21:15:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Nyberg</Family>
+      <Given sequence="1">Eivind</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12182</PersonId>
+    <BirthDate>
+      <Date>2003-02-10</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-10</Date>
+      <Clock>04:35:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Thorvik</Family>
+      <Given sequence="1">Elia</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12207</PersonId>
+    <BirthDate>
+      <Date>2003-09-01</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-10</Date>
+      <Clock>22:35:12</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Angell-Petersen</Family>
+      <Given sequence="1">Even</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12284</PersonId>
+    <BirthDate>
+      <Date>1973-07-26</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-19</Date>
+      <Clock>12:56:22</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Flydal</Family>
+      <Given sequence="1">Jon</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12298</PersonId>
+    <BirthDate>
+      <Date>1980-02-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-20</Date>
+      <Clock>13:54:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Sandberg</Family>
+      <Given sequence="1">Stina Johannne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12328</PersonId>
+    <BirthDate>
+      <Date>1996-09-04</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-24</Date>
+      <Clock>11:33:40</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Heier</Family>
+      <Given sequence="1">Vemund</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12364</PersonId>
+    <BirthDate>
+      <Date>2002-08-28</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-26</Date>
+      <Clock>21:25:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Brekke</Family>
+      <Given sequence="1">Magne</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12402</PersonId>
+    <BirthDate>
+      <Date>1965-03-25</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-30</Date>
+      <Clock>22:51:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Brekke</Family>
+      <Given sequence="1">Marthe</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12403</PersonId>
+    <BirthDate>
+      <Date>2002-02-21</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-09-30</Date>
+      <Clock>22:53:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Johansen</Family>
+      <Given sequence="1">Ståle</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12408</PersonId>
+    <BirthDate>
+      <Date>1963-09-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-01</Date>
+      <Clock>11:43:01</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Kråkenes</Family>
+      <Given sequence="1">Anders</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12417</PersonId>
+    <BirthDate>
+      <Date>2002-02-18</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-01</Date>
+      <Clock>18:25:15</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Eriksen</Family>
+      <Given sequence="1">Jørgen</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12480</PersonId>
+    <BirthDate>
+      <Date>1970-07-07</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-07</Date>
+      <Clock>19:34:55</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Takle</Family>
+      <Given sequence="1">Atgeir</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12481</PersonId>
+    <BirthDate>
+      <Date>1975-05-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-08</Date>
+      <Clock>09:24:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Jensen</Family>
+      <Given sequence="1">Pål</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12490</PersonId>
+    <BirthDate>
+      <Date>1962-04-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-09</Date>
+      <Clock>15:11:43</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Marcussen</Family>
+      <Given sequence="1">Filippa</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12498</PersonId>
+    <BirthDate>
+      <Date>2002-05-14</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-10-09</Date>
+      <Clock>23:51:04</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Bramness</Family>
+      <Given sequence="1">Anders Guldal</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12575</PersonId>
+    <BirthDate>
+      <Date>1999-09-02</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-11-01</Date>
+      <Clock>11:33:50</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Ullevålseter</Family>
+      <Given sequence="1">Marie</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12660</PersonId>
+    <BirthDate>
+      <Date>1999-10-15</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-12-05</Date>
+      <Clock>08:42:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Mølstad</Family>
+      <Given sequence="1">Torun</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12767</PersonId>
+    <BirthDate>
+      <Date>1970-05-05</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-02-02</Date>
+      <Clock>21:00:14</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Axelsson</Family>
+      <Given sequence="1">Helena</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12832</PersonId>
+    <BirthDate>
+      <Date>1975-01-19</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-05</Date>
+      <Clock>20:39:33</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Halden</Family>
+      <Given sequence="1">Gunnar</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12835</PersonId>
+    <BirthDate>
+      <Date>1957-03-31</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>245</OrganisationId>
+    <ModifyDate>
+      <Date>2013-03-06</Date>
+      <Clock>19:50:05</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Blyverket</Family>
+      <Given sequence="1">Arild</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">12853</PersonId>
+    <BirthDate>
+      <Date>1945-10-23</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2013-03-14</Date>
+      <Clock>20:45:46</Clock>
+    </ModifyDate>
+  </Person>
+</PersonList>

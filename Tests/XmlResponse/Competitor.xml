@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Competitor>
+  <Person sex="M">
+    <PersonName>
+      <Family>Rystad</Family>
+      <Given sequence="1">Rune</Given>
+    </PersonName>
+    <PersonId idManager="SWE" type="nat">13</PersonId>
+    <BirthDate>
+      <Date>1977-11-29</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-15</Date>
+      <Clock>20:57:25</Clock>
+    </ModifyDate>
+  </Person>
+  <PreSelectedClass sequence="2">
+    <BaseClassId>35</BaseClassId>
+  </PreSelectedClass>
+  <PreSelectedClass sequence="3">
+    <BaseClassId>61</BaseClassId>
+  </PreSelectedClass>
+  <PreSelectedClass sequence="1">
+    <BaseClassId>52</BaseClassId>
+  </PreSelectedClass>
+  <CCard>
+    <CCardId>771129</CCardId>
+    <PunchingUnitType value="SI"/>
+  </CCard>
+  <CCard>
+    <CCardId>154257</CCardId>
+    <PunchingUnitType value="Emit"/>
+  </CCard>
+</Competitor>

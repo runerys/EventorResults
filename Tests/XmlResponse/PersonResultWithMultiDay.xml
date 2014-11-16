@@ -1,0 +1,2941 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResultListList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>399</EventId>
+      <Name languageId="sv">CRAFT-cup natt</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-04-15</Date>
+        <Clock>21:30:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-04-15</Date>
+        <Clock>21:30:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.larvikok.no</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-04-24</Date>
+        <Clock>22:00:51</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>1450</EventClassId>
+        <Name languageId="sv">H21</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>399</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2011-04-24</Date>
+          <Clock>22:00:31</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="98">
+          <EventRaceId>399</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Waaler Kaas</Family>
+            <Given sequence="1">Sverre</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>12451</ResultId>
+          <StartTime>
+            <Date>2011-04-15</Date>
+            <Clock>10:51:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-04-15</Date>
+            <Clock>12:11:09</Clock>
+          </FinishTime>
+          <Time>80:09</Time>
+          <TimeDiff>29:02</TimeDiff>
+          <ResultPosition>61</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:50:56</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>400</EventId>
+      <Name languageId="sv">CRAFT-cup sprint</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-04-16</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-04-16</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.sandefjordok.no</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-04-24</Date>
+        <Clock>22:06:51</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>1456</EventClassId>
+        <Name languageId="sv">H21</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>400</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2011-04-24</Date>
+          <Clock>22:06:32</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="80">
+          <EventRaceId>400</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Waaler Kaas</Family>
+            <Given sequence="1">Sverre</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>12782</ResultId>
+          <StartTime>
+            <Date>2011-04-16</Date>
+            <Clock>14:44:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-04-16</Date>
+            <Clock>15:03:11</Clock>
+          </FinishTime>
+          <Time>19:11</Time>
+          <TimeDiff>4:19</TimeDiff>
+          <ResultPosition>56</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:50:56</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>748</EventId>
+      <Name languageId="sv">NSK Klubbmesterskap 2011</Name>
+      <EventClassificationId>5</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-06-07</Date>
+        <Clock>18:31:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-06-07</Date>
+        <Clock>18:31:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/orientering/klubbmesterskap-2011/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-06-08</Date>
+        <Clock>00:33:53</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="17" sequence="300" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>2174</EventClassId>
+        <Name languageId="sv">H17-</Name>
+        <ClassShortName>H17-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>748</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>61</BaseClassId>
+        <ModifyDate>
+          <Date>2011-06-08</Date>
+          <Clock>00:33:47</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="34">
+          <EventRaceId>750</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>27463</ResultId>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2011-06-07</Date>
+            <Clock>19:02:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-06-07</Date>
+            <Clock>19:33:20</Clock>
+          </FinishTime>
+          <Time>31:20</Time>
+          <TimeDiff>3:52</TimeDiff>
+          <ResultPosition>7</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:51:06</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>726</EventId>
+      <Name languageId="sv">Norsk O-festival - Elite senior</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-06-24</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-06-24</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-06-24</Date>
+        <Clock>21:34:01</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>1703</EventClassId>
+        <Name languageId="sv">H21- E</Name>
+        <ClassShortName>H21- E</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>726</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>52</BaseClassId>
+        <ModifyDate>
+          <Date>2011-06-24</Date>
+          <Clock>21:34:00</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="73">
+          <EventRaceId>727</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>29568</ResultId>
+          <BibNumber>59</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2011-06-24</Date>
+            <Clock>18:59:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-06-24</Date>
+            <Clock>19:15:00</Clock>
+          </FinishTime>
+          <Time>16:00</Time>
+          <TimeDiff>0:38</TimeDiff>
+          <ResultPosition>3</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:50:58</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>12</EventId>
+      <Name languageId="sv">NM Langdistanse jr. og sr.</Name>
+      <EventClassificationId>1</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-09-08</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-09-08</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.o-nm2011.no</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-09-08</Date>
+        <Clock>17:54:35</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>1857</EventClassId>
+        <Name languageId="sv">H21</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>12</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2011-09-08</Date>
+          <Clock>17:54:28</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="97">
+          <EventRaceId>12</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>36440</ResultId>
+          <BibNumber>72</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2011-09-08</Date>
+            <Clock>12:12:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-09-08</Date>
+            <Clock>14:14:05</Clock>
+          </FinishTime>
+          <Time>122:05</Time>
+          <TimeDiff>29:20</TimeDiff>
+          <ResultPosition>40</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:51:01</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>499</EventId>
+      <Name languageId="sv">Nydalten (med KM lang)</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-09-03</Date>
+        <Clock>11:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-09-03</Date>
+        <Clock>11:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/orientering/arrangementer/nydalten/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-09-04</Date>
+        <Clock>21:30:36</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">10</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>2755</EventClassId>
+        <Name languageId="sv">H21-</Name>
+        <ClassShortName>H21-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>499</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2011-09-03</Date>
+          <Clock>14:19:23</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="32">
+          <EventRaceId>499</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>41565</ResultId>
+          <BibNumber>18</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2011-09-03</Date>
+            <Clock>11:41:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-09-03</Date>
+            <Clock>13:05:55</Clock>
+          </FinishTime>
+          <Time>84:55</Time>
+          <TimeDiff>12:40</TimeDiff>
+          <ResultPosition>12</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:51:20</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>13</EventId>
+      <Name languageId="sv">NM kvalifisering mellomdistanse sr.</Name>
+      <EventClassificationId>1</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-09-09</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-09-09</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.o-nm2011.no</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-09-09</Date>
+        <Clock>15:58:54</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="420" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>4119</EventClassId>
+        <Name languageId="sv">H21 Heat 4</Name>
+        <ClassShortName>H21 Heat 4</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>13</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>42</ExternalId>
+        <ModifyDate>
+          <Date>2011-09-09</Date>
+          <Clock>15:58:49</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="33">
+          <EventRaceId>13</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>43494</ResultId>
+          <BibNumber>714</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2011-09-09</Date>
+            <Clock>13:27:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-09-09</Date>
+            <Clock>13:57:39</Clock>
+          </FinishTime>
+          <Time>30:39</Time>
+          <TimeDiff>7:30</TimeDiff>
+          <ResultPosition>20</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:51:48</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>16</EventId>
+      <Name languageId="sv">KM mellom</Name>
+      <EventClassificationId>3</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2011-09-17</Date>
+        <Clock>11:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2011-09-17</Date>
+        <Clock>11:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://idrett.speaker.no/organisation.asp?id=61937</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2011-09-17</Date>
+        <Clock>15:50:17</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">143</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>3978</EventClassId>
+        <Name languageId="sv">H 21-</Name>
+        <ClassShortName>H 21-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>16</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2011-09-17</Date>
+          <Clock>15:50:09</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfStarts="24">
+          <EventRaceId>16</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>46727</ResultId>
+          <BibNumber>7</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2011-09-17</Date>
+            <Clock>11:13:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2011-09-17</Date>
+            <Clock>11:59:53</Clock>
+          </FinishTime>
+          <Time>46:53</Time>
+          <TimeDiff>9:08</TimeDiff>
+          <ResultPosition>9</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-01-12</Date>
+            <Clock>15:51:44</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1460</EventId>
+      <Name languageId="sv">Oslo City Cup, løp 1</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-04-10</Date>
+        <Clock>18:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-04-10</Date>
+        <Clock>20:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/occ2012/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-04-18</Date>
+        <Clock>08:09:39</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1840</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6642</EventClassId>
+        <Name languageId="sv">H 17-</Name>
+        <ClassShortName>H 17.</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1460</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>6</ExternalId>
+        <ModifyDate>
+          <Date>2012-04-10</Date>
+          <Clock>11:37:30</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="55" noOfStarts="55">
+          <EventRaceId>1524</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>69704</ResultId>
+          <BibNumber>30</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-04-10</Date>
+            <Clock>18:07:15</Clock>
+          </StartTime>
+          <FinishTime/>
+          <CompetitorStatus value="Cancelled"/>
+          <ModifyDate>
+            <Date>2012-04-10</Date>
+            <Clock>19:49:32</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1463</EventId>
+      <Name languageId="sv">Oslo City Cup - løp 2</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-04-17</Date>
+        <Clock>18:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-04-17</Date>
+        <Clock>18:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/occ2012</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-04-19</Date>
+        <Clock>14:41:37</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">4306</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="300" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6719</EventClassId>
+        <Name languageId="sv">H 17-</Name>
+        <ClassShortName>H 17-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1463</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>61</BaseClassId>
+        <ModifyDate>
+          <Date>2012-04-15</Date>
+          <Clock>22:30:23</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="68" noOfStarts="68">
+          <EventRaceId>1527</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>73984</ResultId>
+          <BibNumber>32</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-04-17</Date>
+            <Clock>18:07:45</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-04-17</Date>
+            <Clock>18:24:33</Clock>
+          </FinishTime>
+          <Time>16:48</Time>
+          <TimeDiff>2:32</TimeDiff>
+          <ResultPosition>21</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-04-19</Date>
+            <Clock>14:41:29</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1286</EventId>
+      <Name languageId="sv">EM uttak sprint</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-04-19</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-04-19</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-06-06</Date>
+        <Clock>13:51:31</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">283</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6264</EventClassId>
+        <Name languageId="sv">H 21-E</Name>
+        <ClassShortName>H 21-E</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1286</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>52</BaseClassId>
+        <ModifyDate>
+          <Date>2012-04-18</Date>
+          <Clock>22:16:36</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="63" noOfStarts="63">
+          <EventRaceId>1325</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>73991</ResultId>
+          <BibNumber>37</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-04-19</Date>
+            <Clock>19:21:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-04-19</Date>
+            <Clock>19:37:20</Clock>
+          </FinishTime>
+          <Time>16:20</Time>
+          <TimeDiff>4:11</TimeDiff>
+          <ResultPosition>53</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-06-06</Date>
+            <Clock>13:51:30</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1436</EventId>
+      <Name languageId="sv">Oslo City Cup, løp 3</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-04-24</Date>
+        <Clock>18:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-04-24</Date>
+        <Clock>20:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/occ</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-04-24</Date>
+        <Clock>22:37:01</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="17" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6300</EventClassId>
+        <Name languageId="sv">H 17-</Name>
+        <ClassShortName>H 17-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1436</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>6</ExternalId>
+        <ModifyDate>
+          <Date>2012-04-24</Date>
+          <Clock>15:05:37</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="87" noOfStarts="87">
+          <EventRaceId>1500</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>74005</ResultId>
+          <BibNumber>94</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-04-24</Date>
+            <Clock>18:23:15</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-04-24</Date>
+            <Clock>18:35:19</Clock>
+          </FinishTime>
+          <Time>12:04</Time>
+          <TimeDiff>0:49</TimeDiff>
+          <ResultPosition>9</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-04-24</Date>
+            <Clock>22:36:54</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1586</EventId>
+      <Name languageId="sv">AOOK Sprint-trening i Nydalen</Name>
+      <EventClassificationId>5</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-04-14</Date>
+        <Clock>11:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-04-14</Date>
+        <Clock>13:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/orientering/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-04-14</Date>
+        <Clock>18:18:33</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sex="B" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>8762</EventClassId>
+        <Name languageId="sv">H21</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1586</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>2</ExternalId>
+        <ModifyDate>
+          <Date>2012-04-14</Date>
+          <Clock>14:44:30</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="31" noOfStarts="31">
+          <EventRaceId>1650</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>76232</ResultId>
+          <BibNumber>0</BibNumber>
+          <StartTime>
+            <Date>2012-04-14</Date>
+            <Clock>11:00:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-04-14</Date>
+            <Clock>11:17:02</Clock>
+          </FinishTime>
+          <Time>17:02</Time>
+          <TimeDiff>1:22</TimeDiff>
+          <ResultPosition>5</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-04-14</Date>
+            <Clock>18:18:30</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>467</EventId>
+      <Name languageId="sv">Lørdagskjappen</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-04-28</Date>
+        <Clock>12:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-04-28</Date>
+        <Clock>12:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.ok-moss.no/kjappen12/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-04-30</Date>
+        <Clock>23:22:08</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">79</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6224</EventClassId>
+        <Name languageId="sv">H 21-E</Name>
+        <ClassShortName>H 21-E</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>467</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>52</BaseClassId>
+        <ModifyDate>
+          <Date>2012-04-27</Date>
+          <Clock>01:57:20</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="55" noOfStarts="55">
+          <EventRaceId>467</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>83365</ResultId>
+          <BibNumber>37</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-04-28</Date>
+            <Clock>13:12:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-04-28</Date>
+            <Clock>14:17:45</Clock>
+          </FinishTime>
+          <Time>65:45</Time>
+          <TimeDiff>20:27</TimeDiff>
+          <ResultPosition>39</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-04-28</Date>
+            <Clock>21:04:53</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1469</EventId>
+      <Name languageId="sv">Oslo City Cup, løp 4</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-05-08</Date>
+        <Clock>18:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-05-08</Date>
+        <Clock>20:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/occ</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-08-31</Date>
+        <Clock>11:39:29</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">2681</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="300" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6824</EventClassId>
+        <Name languageId="sv">H 17-</Name>
+        <ClassShortName>H 17-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1469</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>61</BaseClassId>
+        <ModifyDate>
+          <Date>2012-08-31</Date>
+          <Clock>11:39:26</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="59" noOfStarts="59">
+          <EventRaceId>1533</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <Result>
+          <ResultId>93423</ResultId>
+          <BibNumber>872</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-05-08</Date>
+            <Clock>18:21:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-05-08</Date>
+            <Clock>18:25:40</Clock>
+          </FinishTime>
+          <Time>13:55</Time>
+          <CompetitorStatus value="Inactive"/>
+          <ModifyDate>
+            <Date>2012-08-31</Date>
+            <Clock>11:39:26</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>827</EventId>
+      <Name languageId="sv">VM uttak senior</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-05-31</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-05-31</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-05-31</Date>
+        <Clock>19:49:17</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" highAge="75" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>7833</EventClassId>
+        <Name languageId="sv">H 21-</Name>
+        <ClassShortName>H 21-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>827</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2012-05-29</Date>
+          <Clock>21:38:00</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="50" noOfStarts="50">
+          <EventRaceId>829</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>112376</ResultId>
+          <BibNumber>128</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-05-31</Date>
+            <Clock>16:06:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-05-31</Date>
+            <Clock>17:56:45</Clock>
+          </FinishTime>
+          <Time>110:45</Time>
+          <TimeDiff>19:28</TimeDiff>
+          <ResultPosition>24</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-05-31</Date>
+            <Clock>19:49:15</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>860</EventId>
+      <Name languageId="sv">Mellomdistanse, Norgescup og VM uttak senior</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-06-03</Date>
+        <Clock>12:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-06-03</Date>
+        <Clock>12:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.fossumif.no/nmhelg2012/hjem/</WebURL>
+      <Comment languageId="sv">Nasjonalt løp som er godkjentrfra Norsk Orientering. Norgescup og VM uttak senior. Fossum Ønsker at løpet gis status som Trimtex Cuop. Løpet arrangeres samme dag og samme sted som NM jr Stafett på Sæteren Gård i Bærumsmarka</Comment>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-06-04</Date>
+        <Clock>18:06:21</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6636</EventClassId>
+        <Name languageId="sv">H 21-</Name>
+        <ClassShortName>H 21-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>860</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2012-06-02</Date>
+          <Clock>23:29:14</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="105" noOfStarts="105">
+          <EventRaceId>863</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>112378</ResultId>
+          <BibNumber>8039</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-06-03</Date>
+            <Clock>11:51:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-06-03</Date>
+            <Clock>12:40:08</Clock>
+          </FinishTime>
+          <Time>49:08</Time>
+          <TimeDiff>13:39</TimeDiff>
+          <ResultPosition>70</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-06-03</Date>
+            <Clock>18:02:24</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1476</EventId>
+      <Name languageId="sv">Oslo City Cup, løp 5</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-05-15</Date>
+        <Clock>18:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-05-15</Date>
+        <Clock>20:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/occ  </WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-06-19</Date>
+        <Clock>20:24:27</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">3009</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="17" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>11638</EventClassId>
+        <Name languageId="sv">H 17- Jakt</Name>
+        <ClassShortName>H17J</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1476</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>22</ExternalId>
+        <ModifyDate>
+          <Date>2012-05-14</Date>
+          <Clock>21:38:47</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="29" noOfStarts="29">
+          <EventRaceId>1540</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>114306</ResultId>
+          <BibNumber>153</BibNumber>
+          <StartTime>
+            <Date>2012-05-15</Date>
+            <Clock>18:30:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-05-15</Date>
+            <Clock>18:49:46</Clock>
+          </FinishTime>
+          <Time>19:46</Time>
+          <TimeDiff>7:00</TimeDiff>
+          <ResultPosition>9</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-05-22</Date>
+            <Clock>00:16:03</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1801</EventId>
+      <Name languageId="sv">NM sprint kvalifisering</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-06-02</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-06-02</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-06-04</Date>
+        <Clock>18:05:01</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>12087</EventClassId>
+        <Name languageId="sv">H21 Heat 3</Name>
+        <ClassShortName>H21 Heat 3</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1801</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>15</ExternalId>
+        <ModifyDate>
+          <Date>2012-05-30</Date>
+          <Clock>21:24:01</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="26" noOfStarts="26">
+          <EventRaceId>1870</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>127026</ResultId>
+          <BibNumber>812</BibNumber>
+          <StartTime>
+            <Date>2012-06-02</Date>
+            <Clock>11:12:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-06-02</Date>
+            <Clock>11:26:25</Clock>
+          </FinishTime>
+          <Time>14:25</Time>
+          <TimeDiff>1:17</TimeDiff>
+          <ResultPosition>9</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-06-02</Date>
+            <Clock>13:45:53</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>562</EventId>
+      <Name languageId="sv">NM sprint - finaler</Name>
+      <EventClassificationId>1</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-06-02</Date>
+        <Clock>10:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-06-02</Date>
+        <Clock>10:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.fossumif.no/nmhelg2012/hjem/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-06-04</Date>
+        <Clock>18:05:30</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="410" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>12582</EventClassId>
+        <Name languageId="sv">H21 Finale</Name>
+        <ClassShortName>H21 Finale</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>562</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>41</ExternalId>
+        <ModifyDate>
+          <Date>2012-06-02</Date>
+          <Clock>12:41:19</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="30" noOfStarts="30">
+          <EventRaceId>562</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>128087</ResultId>
+          <BibNumber>4</BibNumber>
+          <StartTime>
+            <Date>2012-06-02</Date>
+            <Clock>17:04:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-06-02</Date>
+            <Clock>17:20:10</Clock>
+          </FinishTime>
+          <Time>16:10</Time>
+          <TimeDiff>2:25</TimeDiff>
+          <ResultPosition>25</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-06-03</Date>
+            <Clock>13:41:32</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1798</EventId>
+      <Name languageId="sv">Nydalens SKs klubbmesterskap 2012</Name>
+      <EventClassificationId>5</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-06-05</Date>
+        <Clock>18:31:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-06-05</Date>
+        <Clock>18:31:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/orientering/arrangementer/klubbmesterskap/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-06-08</Date>
+        <Clock>11:09:24</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="17" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>11929</EventClassId>
+        <Name languageId="sv">H17</Name>
+        <ClassShortName>H17</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1798</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>12</ExternalId>
+        <ModifyDate>
+          <Date>2012-06-06</Date>
+          <Clock>10:06:13</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="21" noOfStarts="21">
+          <EventRaceId>1867</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>135852</ResultId>
+          <BibNumber>0</BibNumber>
+          <StartTime>
+            <Date>2012-06-05</Date>
+            <Clock>17:30:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-06-05</Date>
+            <Clock>18:18:28</Clock>
+          </FinishTime>
+          <Time>48:28</Time>
+          <TimeDiff>13:41</TimeDiff>
+          <ResultPosition>14</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-06-08</Date>
+            <Clock>11:09:20</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>939</EventId>
+      <Name languageId="sv">Norgescup sprint</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-08-18</Date>
+        <Clock>14:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-08-18</Date>
+        <Clock>16:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://klubbinfo.no/steinkjerok/nm-helg-2012.html</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-08-18</Date>
+        <Clock>18:36:26</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="21" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>7967</EventClassId>
+        <Name languageId="sv">H 21-E</Name>
+        <ClassShortName>H 21-E</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>939</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>52</BaseClassId>
+        <ModifyDate>
+          <Date>2012-08-17</Date>
+          <Clock>00:17:32</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="40" noOfStarts="40">
+          <EventRaceId>945</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>156108</ResultId>
+          <BibNumber>28</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-08-18</Date>
+            <Clock>15:27:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-08-18</Date>
+            <Clock>15:43:06</Clock>
+          </FinishTime>
+          <Time>16:06</Time>
+          <TimeDiff>1:41</TimeDiff>
+          <ResultPosition>11</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-08-18</Date>
+            <Clock>18:36:24</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>583</EventId>
+      <Name languageId="sv">NM Ultralang</Name>
+      <EventClassificationId>1</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-08-19</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-08-19</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://klubbinfo.no/steinkjerok/nm-helg-2012.html</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-08-20</Date>
+        <Clock>20:56:20</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="21" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>7973</EventClassId>
+        <Name languageId="sv">H 21-E</Name>
+        <ClassShortName>H 21-E</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>583</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>52</BaseClassId>
+        <ModifyDate>
+          <Date>2012-08-20</Date>
+          <Clock>20:56:19</Clock>
+        </ModifyDate>
+        <ClassRaceInfo>
+          <EventRaceId>583</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>156109</ResultId>
+          <BibNumber>51</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-08-19</Date>
+            <Clock>11:15:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-08-19</Date>
+            <Clock>14:11:36</Clock>
+          </FinishTime>
+          <Time>176:36</Time>
+          <TimeDiff>25:11</TimeDiff>
+          <ResultPosition>14</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-08-19</Date>
+            <Clock>15:21:04</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>889</EventId>
+      <Name languageId="sv">Romeriksløpet, KM-langdistanse, Trimtex Cup</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-08-25</Date>
+        <Clock>11:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-08-25</Date>
+        <Clock>11:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.raumar.net</WebURL>
+      <Comment languageId="sv">Søker primært KM-lang, men kan ta en av de andre helgene (og da evt. mellomdistanse). En forutsetning er i alle tilfelle at det blir Trimtex Cup.</Comment>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-08-25</Date>
+        <Clock>21:14:43</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">31</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>12619</EventClassId>
+        <Name languageId="sv">H 21-</Name>
+        <ClassShortName>H 21-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>889</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2012-08-24</Date>
+          <Clock>17:59:22</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="27" noOfStarts="27">
+          <EventRaceId>892</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>168280</ResultId>
+          <BibNumber>523</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-08-25</Date>
+            <Clock>12:31:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-08-25</Date>
+            <Clock>14:33:21</Clock>
+          </FinishTime>
+          <Time>122:21</Time>
+          <TimeDiff>42:02</TimeDiff>
+          <ResultPosition>20</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-08-25</Date>
+            <Clock>21:14:38</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>879</EventId>
+      <Name languageId="sv">Ivar-O-løpet, KM mellom, Trimtexcup</Name>
+      <EventClassificationId>3</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-09-01</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-01</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://www.tyrving.idrett.no/o</WebURL>
+      <Comment languageId="sv">Vi søker om KM mellomdistanse og Trimtex-cup. Kart: Heming/Njårds nye kart til NORT.</Comment>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-09-01</Date>
+        <Clock>14:42:06</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">2</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>13302</EventClassId>
+        <Name languageId="sv">H21-</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>879</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2012-08-31</Date>
+          <Clock>21:56:34</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="52" noOfStarts="52">
+          <EventRaceId>882</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>181062</ResultId>
+          <BibNumber>1187</BibNumber>
+          <StartTime>
+            <Date>2012-09-01</Date>
+            <Clock>11:01:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-09-01</Date>
+            <Clock>11:40:27</Clock>
+          </FinishTime>
+          <Time>39:27</Time>
+          <TimeDiff>3:09</TimeDiff>
+          <ResultPosition>8</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-09-01</Date>
+            <Clock>14:41:55</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>586</EventId>
+      <Name languageId="sv">NM-uka, langdistanse</Name>
+      <EventClassificationId>1</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-09-13</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-13</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://o-nm2012.no/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-09-13</Date>
+        <Clock>17:55:34</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>6275</EventClassId>
+        <Name languageId="sv">H21</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>586</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2012-09-12</Date>
+          <Clock>20:55:32</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="65" noOfStarts="65">
+          <EventRaceId>586</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>183859</ResultId>
+          <BibNumber>52</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-09-13</Date>
+            <Clock>12:32:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-09-13</Date>
+            <Clock>14:36:31</Clock>
+          </FinishTime>
+          <Time>124:31</Time>
+          <TimeDiff>28:34</TimeDiff>
+          <ResultPosition>36</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-09-13</Date>
+            <Clock>17:55:33</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>587</EventId>
+      <Name languageId="sv">NM uka, kvalifisering mellomdistanse</Name>
+      <EventClassificationId>1</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-09-14</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-14</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://o-nm2012.no/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-09-14</Date>
+        <Clock>17:50:16</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sequence="420" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>16201</EventClassId>
+        <Name languageId="sv">H21_Heat_4</Name>
+        <ClassShortName>H21_Heat_4</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>587</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>42</ExternalId>
+        <ModifyDate>
+          <Date>2012-09-12</Date>
+          <Clock>20:55:20</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="37" noOfStarts="37">
+          <EventRaceId>587</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>194748</ResultId>
+          <BibNumber>730</BibNumber>
+          <StartTime>
+            <Date>2012-09-14</Date>
+            <Clock>16:22:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-09-14</Date>
+            <Clock>16:45:39</Clock>
+          </FinishTime>
+          <Time>23:39</Time>
+          <TimeDiff>3:32</TimeDiff>
+          <ResultPosition>17</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-09-14</Date>
+            <Clock>17:50:14</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>881</EventId>
+      <Name languageId="sv">Nydalten 2012</Name>
+      <EventClassificationId>3</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-09-15</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-09-15</Date>
+        <Clock>17:15:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/orientering/arrangementer/nydalten/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-09-18</Date>
+        <Clock>01:26:17</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">2073</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="300" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>13783</EventClassId>
+        <Name languageId="sv">H 17-A</Name>
+        <ClassShortName>H 17-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>881</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>61</BaseClassId>
+        <ModifyDate>
+          <Date>2012-09-18</Date>
+          <Clock>00:08:14</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="58" noOfStarts="58">
+          <EventRaceId>884</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>198996</ResultId>
+          <BibNumber>0</BibNumber>
+          <StartTime>
+            <Date>2012-09-15</Date>
+            <Clock>14:30:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-09-15</Date>
+            <Clock>15:11:03</Clock>
+          </FinishTime>
+          <Time>41:03</Time>
+          <TimeDiff>3:57</TimeDiff>
+          <ResultPosition>6</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-09-18</Date>
+            <Clock>01:26:15</Clock>
+          </ModifyDate>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1931</EventId>
+      <Name languageId="sv">Blodslitet, Norges-Cup</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-10-13</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-10-13</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://blodslitet.no</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-10-13</Date>
+        <Clock>23:04:53</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1817</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>15268</EventClassId>
+        <Name languageId="sv">H21</Name>
+        <ClassShortName>H21</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1931</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId>35</BaseClassId>
+        <ModifyDate>
+          <Date>2012-10-12</Date>
+          <Clock>11:15:54</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="63" noOfStarts="63">
+          <EventRaceId>2009</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>207294</ResultId>
+          <BibNumber>67</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-10-13</Date>
+            <Clock>10:45:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-10-13</Date>
+            <Clock>13:52:00</Clock>
+          </FinishTime>
+          <Time>187:00</Time>
+          <TimeDiff>41:51</TimeDiff>
+          <ResultPosition>26</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-10-13</Date>
+            <Clock>23:04:49</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndSingleDay">
+      <EventId>1523</EventId>
+      <Name languageId="sv">Harry Lagert Nattcup, Finale</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2012-10-19</Date>
+        <Clock>17:30:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2012-10-19</Date>
+        <Clock>21:30:00</Clock>
+      </FinishDate>
+      <WebURL>http://nydalen.idrett.no/orientering/arrangementer/harry-lagert/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2012-10-19</Date>
+        <Clock>23:25:00</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">236</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass sex="B" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>16156</EventClassId>
+        <Name languageId="sv">A - Legendar</Name>
+        <ClassShortName>A-Legendar</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1523</EventId>
+        <ClassTypeId>1</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>1</ExternalId>
+        <ModifyDate>
+          <Date>2012-10-19</Date>
+          <Clock>13:21:41</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="7" noOfStarts="7">
+          <EventRaceId>1587</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+        </Organisation>
+        <Result>
+          <ResultId>208260</ResultId>
+          <BibNumber>0</BibNumber>
+          <CCardId>80133</CCardId>
+          <StartTime>
+            <Date>2012-10-19</Date>
+            <Clock>18:45:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2012-10-19</Date>
+            <Clock>20:55:20</Clock>
+          </FinishTime>
+          <Time>130:20</Time>
+          <TimeDiff>20:11</TimeDiff>
+          <ResultPosition>5</ResultPosition>
+          <CompetitorStatus value="OK"/>
+          <ModifyDate>
+            <Date>2012-10-19</Date>
+            <Clock>23:24:57</Clock>
+          </ModifyDate>
+          <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">1006</PersonId>
+          </ModifiedBy>
+        </Result>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndMultiDay">
+      <EventId>1414</EventId>
+      <Name languageId="sv">Bergen Sprint Camp</Name>
+      <EventClassificationId>2</EventClassificationId>
+      <EventStatusId>11</EventStatusId>
+      <StartDate>
+        <Date>2013-02-01</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2013-02-03</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://sprint-camp.blogspot.no/</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2013-02-19</Date>
+        <Clock>20:49:55</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1163</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="21" highAge="39" sequence="9" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>16911</EventClassId>
+        <Name languageId="sv">H21-</Name>
+        <ClassShortName>H21-</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>1414</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>9</ExternalId>
+        <ModifyDate>
+          <Date>2013-01-24</Date>
+          <Clock>19:40:24</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="44" noOfStarts="44">
+          <EventRaceId>1473</EventRaceId>
+        </ClassRaceInfo>
+        <ClassRaceInfo noOfEntries="45" noOfStarts="45">
+          <EventRaceId>1476</EventRaceId>
+        </ClassRaceInfo>
+        <ClassRaceInfo>
+          <EventRaceId>1475</EventRaceId>
+        </ClassRaceInfo>
+        <ClassRaceInfo>
+          <EventRaceId>1474</EventRaceId>
+        </ClassRaceInfo>
+        <HashTableEntry entity="EventClasses" id="16911">
+          <Key>Eventor_AllowEntryToIndividualRaces</Key>
+          <Value>1</Value>
+          <ModifyDate>
+            <Date>2012-11-04</Date>
+            <Clock>13:21:49</Clock>
+          </ModifyDate>
+        </HashTableEntry>
+      </EventClass>
+      <PersonResult>
+        <Person>
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <RaceResult>
+          <EventRace raceLightCondition="Night" raceDistance="Sprint">
+            <EventRaceId>1473</EventRaceId>
+            <EventId>1414</EventId>
+            <Name languageId="sv">Nattsprint</Name>
+            <RaceDate>
+              <Date>2013-02-01</Date>
+              <Clock>18:30:00</Clock>
+            </RaceDate>
+            <EventCenterPosition x="5.3363" y="60.37963"/>
+            <ModifyDate>
+              <Date>2013-02-19</Date>
+              <Clock>20:49:46</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+              <PersonId type="nat" idManager="SWE">788</PersonId>
+            </ModifiedBy>
+          </EventRace>
+          <Result>
+            <ResultId>226307</ResultId>
+            <StartTime>
+              <Date>2013-02-01</Date>
+              <Clock>19:03:10</Clock>
+            </StartTime>
+            <FinishTime>
+              <Date>2013-02-01</Date>
+              <Clock>19:16:57</Clock>
+            </FinishTime>
+            <Time>0:00</Time>
+            <CompetitorStatus value="Disqualified"/>
+            <ModifyDate>
+              <Date>2013-02-02</Date>
+              <Clock>00:00:37</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+              <PersonId type="nat" idManager="SWE">1006</PersonId>
+            </ModifiedBy>
+          </Result>
+        </RaceResult>
+        <RaceResult>
+          <EventRace raceLightCondition="Day" raceDistance="Sprint">
+            <EventRaceId>1476</EventRaceId>
+            <EventId>1414</EventId>
+            <Name languageId="sv">Bysprint</Name>
+            <RaceDate>
+              <Date>2013-02-02</Date>
+              <Clock>09:30:00</Clock>
+            </RaceDate>
+            <EventCenterPosition x="5.32637" y="60.39418"/>
+            <ModifyDate>
+              <Date>2013-02-19</Date>
+              <Clock>20:49:46</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+              <PersonId type="nat" idManager="SWE">788</PersonId>
+            </ModifiedBy>
+          </EventRace>
+          <Result>
+            <ResultId>226308</ResultId>
+            <StartTime>
+              <Date>2013-02-02</Date>
+              <Clock>09:51:35</Clock>
+            </StartTime>
+            <FinishTime>
+              <Date>2013-02-02</Date>
+              <Clock>10:08:40</Clock>
+            </FinishTime>
+            <Time>17:05</Time>
+            <TimeDiff>1:42</TimeDiff>
+            <ResultPosition>17</ResultPosition>
+            <CompetitorStatus value="OK"/>
+            <ModifyDate>
+              <Date>2013-02-02</Date>
+              <Clock>12:15:53</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+              <PersonId type="nat" idManager="SWE">1006</PersonId>
+            </ModifiedBy>
+          </Result>
+        </RaceResult>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+  <ResultList>
+    <Event eventForm="IndMultiDay">
+      <EventId>2541</EventId>
+      <Name languageId="sv">BSC 2013 sammenlagt</Name>
+      <EventClassificationId>4</EventClassificationId>
+      <EventStatusId>9</EventStatusId>
+      <StartDate>
+        <Date>2013-02-01</Date>
+        <Clock>00:00:00</Clock>
+      </StartDate>
+      <FinishDate>
+        <Date>2013-02-03</Date>
+        <Clock>00:00:00</Clock>
+      </FinishDate>
+      <WebURL>http://sprint-camp.blogspot.com</WebURL>
+      <Comment/>
+      <PunchingUnitType value="Emit"/>
+      <ModifyDate>
+        <Date>2013-02-14</Date>
+        <Clock>12:22:43</Clock>
+      </ModifyDate>
+      <ModifiedBy>
+        <PersonId type="nat" idManager="SWE">1163</PersonId>
+      </ModifiedBy>
+    </Event>
+    <ClassResult>
+      <EventClass lowAge="0" highAge="99" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+        <EventClassId>18319</EventClassId>
+        <Name languageId="sv">Herrer</Name>
+        <ClassShortName>H</ClassShortName>
+        <EventClassStatus value="normal"/>
+        <EventId>2541</EventId>
+        <ClassTypeId>2</ClassTypeId>
+        <BaseClassId/>
+        <ExternalId>1</ExternalId>
+        <ModifyDate>
+          <Date>2013-02-02</Date>
+          <Clock>12:33:06</Clock>
+        </ModifyDate>
+        <ClassRaceInfo noOfEntries="148" noOfStarts="148">
+          <EventRaceId>2654</EventRaceId>
+        </ClassRaceInfo>
+        <ClassRaceInfo noOfEntries="151" noOfStarts="151">
+          <EventRaceId>2655</EventRaceId>
+        </ClassRaceInfo>
+        <ClassRaceInfo>
+          <EventRaceId>2656</EventRaceId>
+        </ClassRaceInfo>
+      </EventClass>
+      <PersonResult>
+        <Person>
+          <PersonName>
+            <Family>Kaas</Family>
+            <Given sequence="1">Sverre Waaler</Given>
+          </PersonName>
+          <PersonId type="nat" idManager="SWE">1006</PersonId>
+          <BirthDate>
+            <Date>1985-03-21</Date>
+          </BirthDate>
+        </Person>
+        <Organisation>
+          <OrganisationId>245</OrganisationId>
+          <Name languageId="sv">Nydalens SK</Name>
+          <ShortName languageId="sv">Nydalens SK</ShortName>
+          <Country>
+            <CountryId value="578"/>
+            <Alpha2 value="NO"/>
+            <Alpha3 value="NOR"/>
+            <Name languageId="sv">Norge</Name>
+            <Name languageId="en">Norway</Name>
+            <ModifyDate>
+              <Date>2009-10-27</Date>
+              <Clock>21:55:12</Clock>
+            </ModifyDate>
+          </Country>
+        </Organisation>
+        <RaceResult>
+          <EventRace raceLightCondition="Day" raceDistance="Sprint">
+            <EventRaceId>2654</EventRaceId>
+            <EventId>2541</EventId>
+            <Name languageId="sv">Nattsprint</Name>
+            <RaceDate>
+              <Date>2013-02-01</Date>
+              <Clock>00:00:00</Clock>
+            </RaceDate>
+            <ModifyDate>
+              <Date>2013-02-14</Date>
+              <Clock>12:22:43</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+              <PersonId type="nat" idManager="SWE">1163</PersonId>
+            </ModifiedBy>
+          </EventRace>
+          <Result>
+            <ResultId>226716</ResultId>
+            <StartTime>
+              <Date>2013-02-01</Date>
+              <Clock>19:03:10</Clock>
+            </StartTime>
+            <FinishTime>
+              <Date>2013-02-01</Date>
+              <Clock>19:16:57</Clock>
+            </FinishTime>
+            <Time>0:00</Time>
+            <CompetitorStatus value="Disqualified"/>
+            <ModifyDate>
+              <Date>2013-02-02</Date>
+              <Clock>12:38:42</Clock>
+            </ModifyDate>
+          </Result>
+        </RaceResult>
+        <RaceResult>
+          <EventRace raceLightCondition="Day" raceDistance="Sprint">
+            <EventRaceId>2655</EventRaceId>
+            <EventId>2541</EventId>
+            <Name languageId="sv">Bysprint</Name>
+            <RaceDate>
+              <Date>2013-02-02</Date>
+              <Clock>09:15:00</Clock>
+            </RaceDate>
+            <ModifyDate>
+              <Date>2013-02-14</Date>
+              <Clock>12:22:43</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+              <PersonId type="nat" idManager="SWE">1163</PersonId>
+            </ModifiedBy>
+          </EventRace>
+          <Result>
+            <ResultId>226769</ResultId>
+            <StartTime>
+              <Date>2013-02-01</Date>
+              <Clock>09:51:35</Clock>
+            </StartTime>
+            <FinishTime>
+              <Date>2013-02-01</Date>
+              <Clock>10:08:40</Clock>
+            </FinishTime>
+            <Time>17:05</Time>
+            <TimeDiff>1:42</TimeDiff>
+            <ResultPosition>21</ResultPosition>
+            <CompetitorStatus value="OK"/>
+            <ModifyDate>
+              <Date>2013-02-02</Date>
+              <Clock>12:40:00</Clock>
+            </ModifyDate>
+          </Result>
+        </RaceResult>
+      </PersonResult>
+    </ClassResult>
+  </ResultList>
+</ResultListList>

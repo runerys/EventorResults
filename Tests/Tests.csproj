@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{137E880E-FC54-4B65-A35F-FCC8BC2AA353}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tests</RootNamespace>
+    <AssemblyName>Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FakeItEasy">
+      <HintPath>..\packages\FakeItEasy.1.9.1\lib\net40\FakeItEasy.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IntegrationTest.cs" />
+    <Compile Include="KeyPatternsTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Crawler\Crawler.csproj">
+      <Project>{A994348C-16BA-4D60-8E82-925DD2F7080D}</Project>
+      <Name>Crawler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Eventor.Integration\Eventor.Integration.csproj">
+      <Project>{07B9AED1-53D3-4746-8208-6568F439FC66}</Project>
+      <Name>Eventor.Integration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventorResults.Core\EventorResults.Core.csproj">
+      <Project>{27bdcee2-a833-4074-b94c-9af5b2d9216c}</Project>
+      <Name>EventorResults.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="XmlResponse\Competitor.xml" />
+    <Content Include="XmlResponse\Competitors.xml" />
+    <Content Include="XmlResponse\Events.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlResponse\OrganisationEvents.xml" />
+    <Content Include="XmlResponse\OrganisationPersons.xml" />
+    <Content Include="XmlResponse\OrganisationPersonsWithContactDetails.xml" />
+    <Content Include="XmlResponse\PersonResults.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlResponse\PersonResultWithMultiDay.xml" />
+    <Content Include="XmlResponse\PersonResultWithWinner.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
