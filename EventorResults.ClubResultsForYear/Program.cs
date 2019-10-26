@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using Eventor.Integration;
 using Eventor.Schema;
@@ -17,53 +18,7 @@ namespace EventorResults.ClubResultsForYear
         static void Main(string[] args)
         {
             Console.WriteLine("Crawl starting...");
-
-            var events = new []
-            {
-                new Event(4487, "Klubbmesterskap"),
-                new Event(2121, "NM Lang"),
-                new Event(2122, "NM Mellom"),
-                new Event(2115, "NM Ultra"),
-                new Event(3334, "NM Natt"),
-                new Event(1178, "NM Sprint"),
-                new Event(2117, "HL Lang"),
-                new Event(2116, "HL Sprint"),
-                new Event(2124, "O-idol"),
-                new Event(2118, "Veteran Mellom"),
-                new Event(2119, "Veteran Lang"),
-                new Event(2120, "Veteran Sprint"),
-                // NC Sammenlagt
-                // NC-sprint Sammenlagt
-                // Trimtex cup Sammenlagt
-                new Event(3327, "KM Lang"),
-                new Event(3250, "KM Mellom"),
-                new Event(3062, "KM Natt"),
-                new Event(3414, "KM Sprint"),
-
-                 new Event(2123, "NM Stafett"),
-                 new Event(2125, "NM Junior Stafett"),
-                 new Event(1179, "NM Sprint Stafett"), 
-                 
-                 new EventSwe(5778, "Stigtomtakavlen"), // manuell
-                 new EventSwe(6082, "Kolmårdskavlen"), 
-                 new EventSwe(7526, "Tiomila"),
-                 new EventSwe(7504, "25-manna"),
-                 new EventSwe(6173, "Smålandskavlen"), // manuell
-
-                 // Jukola (FIN)
-                 new Event(3945, "15-stafetten"),  
-                 new Event(3298, "Night Hawk"), 
-
-                 
-                 new Event(3419, "KM Stafett"), 
-
-                 // VM ski-o (L,M,S)
-                new Event(3223, "NM ski-O Lang"),
-                new Event(3224, "NM ski-O Mellom"),
-                new Event(3215, "HL ski-O"),
-                new Event(3216, "NM ski-O Stafett"), 
-   
-            };
+            var events = ParseEvents(@"C:\eventor\events.txt");
 
             DownloadResultsFor(events);
             FixXmlFileFor(events);
@@ -71,6 +26,43 @@ namespace EventorResults.ClubResultsForYear
 
             Console.WriteLine("Crawl completed. Press Enter to exit...");
             Console.ReadLine();
+        }
+
+        private static Event[] ParseEvents(string file)
+        {
+            var events = new List<Event>();
+            var regex = new Regex(@"(\d+)(, \d+)?, (.*)");
+            foreach (var l in File.ReadAllLines(file))
+            {
+                var line = l;
+
+                if (string.IsNullOrEmpty(line))
+                    continue;
+
+                line = line.Trim();
+
+                var match = regex.Match(line);
+
+                if (!match.Success)
+                    continue;
+
+                var eventId = int.Parse(match.Groups[1].Value);
+                var eventRaceId = match.Groups[2].Value;
+                var name = match.Groups[3].Value;
+
+                var e = new Event(eventId, name);
+
+                if (name.Contains(", SE, "))
+                    e = new EventSwe(eventId, name);
+
+                if (!string.IsNullOrEmpty(eventRaceId))
+                    e.EventRaceId = eventRaceId.Replace(", ", string.Empty);
+
+                events.Add(e);
+
+            }
+
+            return events.ToArray();
         }
 
         private static void FixXmlFileFor(Event[] events)
@@ -86,7 +78,7 @@ namespace EventorResults.ClubResultsForYear
 
                 if (File.Exists(fixedFile))
                     File.Delete(fixedFile);
-                    //continue; // Already processed
+                //continue; // Already processed
 
                 var sb = new StringBuilder();
                 var filecontent = File.ReadAllLines(downloadedFile);
@@ -97,7 +89,7 @@ namespace EventorResults.ClubResultsForYear
 
                 foreach (var line in filecontent)
                 {
-                    if(string.Equals(previousLine.Trim(), line.Trim(), StringComparison.InvariantCultureIgnoreCase))
+                    if (string.Equals(previousLine.Trim(), line.Trim(), StringComparison.InvariantCultureIgnoreCase))
                         continue;
 
                     sb.AppendLine(line);
@@ -105,7 +97,7 @@ namespace EventorResults.ClubResultsForYear
                 }
 
                 File.WriteAllText(fixedFile, sb.ToString());
-            }           
+            }
         }
 
         static string FormatXml(string xml)
@@ -129,7 +121,7 @@ namespace EventorResults.ClubResultsForYear
 
         private static void CreateTextFileFor(Event[] events)
         {
-            var filename = @"c:\eventor\eventresults\combined.txt";
+            var filename = @"c:\eventor\clubresults.txt";
 
             if (File.Exists(filename))
                 File.Delete(filename);
@@ -138,14 +130,11 @@ namespace EventorResults.ClubResultsForYear
 
             foreach (var input in events)
             {
-                //if (input.EventId != 6173)
-                //    continue;
-
                 var eventId = input.EventId;
 
                 string eventFile = BuildFilenameFixed(eventId);
 
-                if(!File.Exists(eventFile))
+                if (!File.Exists(eventFile))
                     eventFile = BuildFilename(eventId);
 
                 var eventXml = File.ReadAllText(eventFile);
@@ -159,11 +148,14 @@ namespace EventorResults.ClubResultsForYear
 
                 var eventName = e.Name.Text[0];
                 var eventDate = e.StartDate.Date;
-                sb.AppendFormat("{0}, {1:d. MMMM}", eventName, DateTime.Parse(eventDate.Text[0]));
+                //sb.AppendFormat("{0}, {1:d. MMMM}", eventName, DateTime.Parse(eventDate.Text[0]));
+                sb.Append(input.Shortname);
                 sb.AppendLine();
                 sb.AppendFormat("{0}/Events/Show/{1}", input.Config.EventorBaseUrl, input.EventId, input.Config.OrgId);
                 sb.AppendLine();
                 sb.AppendFormat("{0}/Events/ResultList?eventId={1}&organisationId={2}", input.Config.EventorBaseUrl, input.EventId, input.Config.OrgId);
+                if (!string.IsNullOrEmpty(input.EventRaceId))
+                    sb.Append($"&eventRaceId={input.EventRaceId}");
                 sb.AppendLine();
                 sb.AppendLine();
 
@@ -184,13 +176,15 @@ namespace EventorResults.ClubResultsForYear
                         if (classResult.Items.First() is PersonResult)
                         {
                             foreach (var item in classResult.Items)
-                            {                                
-                                anyFromClub = PrintPersonResult((PersonResult)item, classBuilder, anyFromClub, input.Config);
+                            {
+                                var v = PrintPersonResult((PersonResult)item, classBuilder, anyFromClub, input);
+                                if (v.HasValue)
+                                    anyFromClub = v.Value;
                             }
                         }
                         else if (classResult.Items.First() is TeamResult)
                         {
-                            anyFromClub = PrintTeamResults(classResult.Items, classBuilder, anyFromClub, input.Config);                            
+                            anyFromClub = PrintTeamResults(classResult.Items, classBuilder, anyFromClub, input.Config);
                         }
                     }
 
@@ -233,9 +227,9 @@ namespace EventorResults.ClubResultsForYear
 
         private static readonly Dictionary<string, string> StatusMap = new Dictionary<string, string>
         {
-            { "disqualified", "DSQ" }, 
-            { "mispunch", "DSQ" }, 
-            { "didnotfinish", "DNF" }, 
+            { "disqualified", "DSQ" },
+            { "mispunch", "DSQ" },
+            { "didnotfinish", "DNF" },
             { "null", "DNF" },
             { "didnotstart", "DNS" }
         };
@@ -256,14 +250,17 @@ namespace EventorResults.ClubResultsForYear
                     organisation = item.TeamMemberResult.First().Organisation;
             }
 
-            var isOwnClub = organisation.OrganisationId.Text[0] == config.OrgId;
+            var isOwnClub = false;
+
+            if (organisation.OrganisationId != null)
+                isOwnClub = organisation.OrganisationId.Text[0] == config.OrgId;
 
             var teamstatus = item.TeamStatus ?? new TeamStatus { value = TeamStatusValue.Cancelled };
             var isOk = teamstatus.value == TeamStatusValue.OK;
 
             // Ikke skriv ut lag fra andre klubber som ikke er godkjente
             if (!isOwnClub && !isOk)
-                return new TeamResultOutput {IsValid = false, IsCurrentClub = false};
+                return new TeamResultOutput { IsValid = false, IsCurrentClub = false };
 
             var teamMemberResults = item.TeamMemberResult.OrderBy(x => int.Parse(x.Leg));
 
@@ -274,7 +271,7 @@ namespace EventorResults.ClubResultsForYear
 
             if (lastRunner.OverallResult.ResultPosition != null)
             {
-                overallResultPosition = (lastRunner.OverallResult.ResultPosition.Text ?? new string[] { }).FirstOrDefault();                
+                overallResultPosition = (lastRunner.OverallResult.ResultPosition.Text ?? new string[] { }).FirstOrDefault();
             }
 
             if (overallResultPosition != null && StatusMap.Keys.Any(x => x.ToLower() == overallResultPosition.ToLower()))
@@ -301,17 +298,27 @@ namespace EventorResults.ClubResultsForYear
             };
         }
 
-     
-        private static bool PrintPersonResult(PersonResult personResult, StringBuilder classBuilder, bool anyFromClub, IProvideEventorConfiguration config)
+
+        private static bool? PrintPersonResult(PersonResult personResult, StringBuilder classBuilder, bool anyFromClub, Event eventorEvent)
         {
+            var config = eventorEvent.Config;
+
             var person = personResult.Item as Person;
 
             var club = personResult.Item1 as Organisation;
             var result = personResult.Item2 as Result;
 
+            if (!string.IsNullOrEmpty(eventorEvent.EventRaceId))
+            {
+                result = personResult.RaceResult.FirstOrDefault(x => ((EventRaceId)x.Item).Text[0] == eventorEvent.EventRaceId)?.Item1 as Result;
+            }
+
+            if (result == null)
+                return null;
+
             var name = string.Format("{0} {1}", person.PersonName.Given.FirstOrDefault().Text[0],
                 person.PersonName.Family.Text[0]);
-            var clubName = club.ShortName.Text[0];
+            var clubName = club.ShortName?.Text[0] ?? club.Name.Text[0];
 
             var clubOrgId = string.Empty;
 
@@ -419,6 +426,7 @@ namespace EventorResults.ClubResultsForYear
     {
         public int EventId { get; set; }
         public string Shortname { get; set; }
+        public string EventRaceId { get; set; }
         
         public IProvideEventorConfiguration Config;
 
@@ -431,10 +439,10 @@ namespace EventorResults.ClubResultsForYear
     }
 
     internal class EventSwe : Event
-    {        
+    {
         public EventSwe(int eventId, string shortname) : base(eventId, shortname)
         {
-            Config = new EventorConfigSwe();    
+            Config = new EventorConfigSwe();
         }
     }
 
@@ -442,7 +450,7 @@ namespace EventorResults.ClubResultsForYear
     {
         public EventorConfigSwe() : base("_SWE")
         {
-            
+
         }
     }
 }
