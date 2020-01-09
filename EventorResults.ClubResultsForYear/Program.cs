@@ -267,16 +267,21 @@ namespace EventorResults.ClubResultsForYear
             var lastRunner = teamMemberResults.Last();
             var teamName = item.TeamName.Text.FirstOrDefault();
 
-            var overallResultPosition = lastRunner.OverallResult.TeamStatus.value.ToString();
+            var overallResultPosition = "Ukjent";
 
-            if (lastRunner.OverallResult.ResultPosition != null)
+            if (lastRunner.OverallResult != null)
             {
-                overallResultPosition = (lastRunner.OverallResult.ResultPosition.Text ?? new string[] { }).FirstOrDefault();
-            }
+                overallResultPosition = lastRunner.OverallResult.TeamStatus.value.ToString();
+            
+                if (lastRunner.OverallResult.ResultPosition != null)
+                {
+                    overallResultPosition = (lastRunner.OverallResult.ResultPosition.Text ?? new string[] { }).FirstOrDefault();
+                }
 
-            if (overallResultPosition != null && StatusMap.Keys.Any(x => x.ToLower() == overallResultPosition.ToLower()))
-            {
-                overallResultPosition = StatusMap[overallResultPosition.ToLower()];
+                if (overallResultPosition != null && StatusMap.Keys.Any(x => x.ToLower() == overallResultPosition.ToLower()))
+                {
+                    overallResultPosition = StatusMap[overallResultPosition.ToLower()];
+                }
             }
 
             var runners = teamMemberResults.Select(x => string.Join(" ", x.Person.PersonName.Given.Select(g => (g.Text ?? new[] { "Ingen" }).FirstOrDefault()).ToList()) + " " + (x.Person.PersonName.Family.Text ?? new[] { "løper" }).FirstOrDefault()).ToList();
@@ -327,8 +332,10 @@ namespace EventorResults.ClubResultsForYear
 
             var isCurrentClub = clubOrgId == config.OrgId;
 
+            // Ikke ok resultat (not started, disk etc)
             if (result.ResultPosition == null || result.ResultPosition.Text[0] == "0")
             {
+                // Har tid (dvs. startet) og fra egen klubb 
                 if (result.Time != null && result.Time.Text[0] != "0:00" && isCurrentClub)
                 {
                     var competitorstatus = ShortenCompetitorStatus(result);
@@ -389,16 +396,18 @@ namespace EventorResults.ClubResultsForYear
                     continue;
 
                 var uri = string.Format("results/organisation?organisationIds=**ORGID**&eventId={0}&top=1", input.EventId);
+                //var uri = string.Format("results/event?eventId={0}&includeSplitTimes=false", input.EventId);
                 var resultsXml = eventor.GetXml(uri);
                 File.WriteAllText(filename, resultsXml);
 
-                var startListUri = string.Format("starts/organisation?organisationIds=**ORGID**&eventId={0}", input.EventId);
-                var startListXml = eventor.GetXml(startListUri);
-                File.WriteAllText(BuildFilenameStartList(input.EventId), startListXml);
+                //var startListUri = string.Format("starts/organisation?organisationIds=**ORGID**&eventId={0}", input.EventId);
+                //var startListXml = eventor.GetXml(startListUri);
+                //File.WriteAllText(BuildFilenameStartList(input.EventId), startListXml);
 
-                var entriesUri = string.Format("entries?organisationIds=**ORGID**&eventIds={0}&includePersonElement=true&includeEventElement=true", input.EventId);
-                var entriesXml = eventor.GetXml(entriesUri);
-                File.WriteAllText(BuildFilenameEntries(input.EventId), entriesXml);
+                //var entriesUri = string.Format("entries?organisationIds=**ORGID**&eventIds={0}&includePersonElement=true&includeEventElement=true", input.EventId);
+                //var entriesUri = string.Format("entries?eventIds={0}&includePersonElement=true&includeEventElement=true", input.EventId);
+                //var entriesXml = eventor.GetXml(entriesUri);
+                //File.WriteAllText(BuildFilenameEntries(input.EventId), entriesXml);
 
             }
         }
